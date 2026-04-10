@@ -1,0 +1,41 @@
+# Reference: <https://postmarketos.org/deviceinfo>
+# Kernel config: arch/arm64/configs/mgk_64_k510_defconfig +
+#                arch/arm64/configs/ext_config/moto-mgk_64_k510-cancunn.config
+
+deviceinfo_format_version="0"
+deviceinfo_name="Motorola Moto G Power 5G 2024"
+deviceinfo_manufacturer="Motorola"
+deviceinfo_date=""
+deviceinfo_dtb="mediatek/mt6855-cancunn-evb-overlay"
+deviceinfo_modules_initfs=""
+deviceinfo_external_disk="false"
+deviceinfo_flash_method="fastboot"
+deviceinfo_arch="aarch64"
+
+# Device settings
+deviceinfo_screen_width="1080"
+deviceinfo_screen_height="2400"
+deviceinfo_gpu_accelerated=""
+
+# Fastboot
+deviceinfo_flash_fastboot_partition_kernel="boot"
+deviceinfo_flash_fastboot_partition_rootfs="userdata"
+deviceinfo_flash_fastboot_vendor_id="0x22b8"
+deviceinfo_flash_fastboot_max_size=""
+
+# Boot image
+deviceinfo_generate_bootimg="true"
+deviceinfo_bootimg_qcdt="false"
+deviceinfo_bootimg_mtk_mkimage="false"
+deviceinfo_bootimg_dtb_second="false"
+
+# Bootloader notes:
+# - A/B (VAB) partition scheme with dynamic super partition
+# - Bootloader unlock via: fastboot oem unlock <KEY>
+#   (request key from motorola.com/unlockbootloader)
+# - AVB preflash validation: zero out last 64 bytes (AVBf footer) of
+#   custom boot.img before flashing with fastboot
+# - Anti-rollback: disable AVB in vbmeta (flags byte 0x03) when
+#   downgrading firmware
+# - fastboot boot NOT supported on this device
+# - fastboot reboot fastboot → fastbootd for dynamic partitions

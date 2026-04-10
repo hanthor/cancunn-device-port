@@ -1,0 +1,33 @@
+# Reference: <https://postmarketos.org/devicepkg>
+# Maintainer: Your Name <your@email.com>
+# Co-Maintainer:
+pkgname=device-motorola-cancunn
+pkgdesc="Motorola Moto G Power 5G 2024"
+pkgver=1
+pkgrel=0
+url="https://github.com/hanthor/cancunn-device-port"
+arch="aarch64"
+license="MIT"
+depends="
+	postmarketos-base
+	linux-motorola-cancunn
+	mkbootimg
+"
+makedepends="devicepkg-dev"
+subpackages="$pkgname-nonfree-firmware:nonfree_firmware"
+source="deviceinfo"
+options="!check !strip"
+
+build() {
+	devicepkg_build $startdir $pkgname
+}
+
+package() {
+	devicepkg_package $startdir $pkgname
+}
+
+nonfree_firmware() {
+	pkgdesc="Firmware blobs required for Wi-Fi, BT, modem"
+	depends="firmware-motorola-cancunn"
+	mkdir "$subpkgdir"
+}

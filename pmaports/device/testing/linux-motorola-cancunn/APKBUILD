@@ -1,0 +1,61 @@
+# Kernel config based on: arch/arm64/configs/mgk_64_k510_defconfig
+# + arch/arm64/configs/ext_config/moto-mgk_64_k510-cancunn.config
+# Maintainer: Your Name <your@email.com>
+
+pkgname=linux-motorola-cancunn
+pkgver=5.10.233
+pkgrel=0
+pkgdesc="Motorola Moto G Power 5G 2024 kernel"
+arch="aarch64"
+_carch="arm64"
+_flavor="motorola-cancunn"
+url="https://github.com/MotorolaMobilityLLC/kernel-mtk"
+license="GPL-2.0-only"
+options="!strip !check !tracedeps pmb:cross-native"
+makedepends="
+	bash
+	bc
+	bison
+	devicepkg-dev
+	findutils
+	flex
+	openssl-dev
+	perl
+"
+
+# Source: MotorolaMobilityLLC/kernel-mtk
+# Branch: android-15-release-v1uds35h.26-14-6-2-4
+_repository="kernel-mtk"
+_commit="TODO"  # Replace with actual commit hash
+source="
+	$pkgname-$_commit.tar.gz::https://github.com/MotorolaMobilityLLC/$_repository/archive/$_commit.tar.gz
+	config-$_flavor.$_carch
+"
+builddir="$srcdir/$_repository-$_commit"
+_outdir="out"
+
+prepare() {
+	default_prepare
+	MAKEFLAGS="" make O="$_outdir" ARCH="$_carch" \
+		LLVM=1 \
+		mgk_64_k510_defconfig
+	# Apply Motorola cancunn config fragment
+	cat "$srcdir/config-$_flavor.$_carch" >> "$builddir/$_outdir/.config"
+	MAKEFLAGS="" make O="$_outdir" ARCH="$_carch" LLVM=1 olddefconfig
+}
+
+build() {
+	unset LDFLAGS
+	make O="$_outdir" ARCH="$_carch" \
+		LLVM=1 \
+		KCFLAGS="-D__ANDROID_COMMON_KERNEL__" \
+		-j"$(nproc)" \
+		Image.gz dtbs
+}
+
+package() {
+	downstreamkernel_package "$builddir" "$pkgdir" "$_carch" \
+		"$_flavor" "$_outdir"
+	make O="$_outdir" ARCH="$_carch" LLVM=1 \
+		INSTALL_MOD_PATH="$pkgdir" modules_install
+}
