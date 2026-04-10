@@ -1,0 +1,1494 @@
+[   30.516921] [wdk-c] cpu=5 o_k=5 lbit=0xe8 cbit=0xff,17,7,1,516707308,ff,0,0,0,0,[30516913611,14999970] 16
+[   30.516927] [wdk-c] cpu=4 o_k=4 lbit=0xf8 cbit=0xff,7,7,1,516707308,ff,0,0,0,0,[30516920303,14999964] 16
+[   30.516934] [wdk-c] cpu=1 o_k=1 lbit=0xfa cbit=0xff,5,7,1,516707308,ff,0,0,0,0,[30516927072,14999957] 16
+[   30.516941] [wdk-c] cpu=2 o_k=2 lbit=0xfe cbit=0xff,1,7,1,516707308,ff,0,0,0,0,[30516933534,14999950] 16
+[   30.516951] [thread:162] 2026-04-10 06:32:19.971133 UTC;android time 2026-04-10 06:32:19.971133
+[   30.516955] [wdk-k] cpu=0 o_k=0 lbit=0xff cbit=0xff,0,7,1,516707308,ff,0,0,0,0,[30516940072,14999944] 16
+[   30.630641] leds_mtk led_debug_log(215) :[Light] Set lcd-backlight directlyT:29.516,L:324 L:324 map:324    T:29.530,L:323 L:323 map:323    T:29.563,L:322 L:322 map:322    T:30.630,L:304 L:304 map:304    
+[   30.630669] aw99703_set_brightness brt_val is 304
+[   30.630671] aw99703_set_brightness bl_mapping brt_val: 1395
+[   30.637450] aw99703_set_brightness brt_val is 292
+[   30.637455] aw99703_set_brightness bl_mapping brt_val: 1382
+[   30.647146] aw99703_set_brightness brt_val is 280
+[   30.647151] aw99703_set_brightness bl_mapping brt_val: 1367
+[   30.653483] aw99703_set_brightness brt_val is 268
+[   30.653489] aw99703_set_brightness bl_mapping brt_val: 1352
+[   30.662369] aw99703_set_brightness brt_val is 256
+[   30.662373] aw99703_set_brightness bl_mapping brt_val: 1337
+[   30.670183] leds_mtk led_debug_log(215) :[Light] Set lcd-backlight directlyT:30.637,L:292 L:292 map:292    T:30.647,L:280 L:280 map:280    T:30.653,L:268 L:268 map:268    T:30.662,L:256 L:256 map:256    T:30.670,L:244 L:244 map:244    
+[   30.670202] aw99703_set_brightness brt_val is 244
+[   30.670204] aw99703_set_brightness bl_mapping brt_val: 1320
+[   30.678428] aw99703_set_brightness brt_val is 232
+[   30.678435] aw99703_set_brightness bl_mapping brt_val: 1303
+[   30.686939] aw99703_set_brightness brt_val is 220
+[   30.686945] aw99703_set_brightness bl_mapping brt_val: 1285
+[   30.695045] aw99703_set_brightness brt_val is 208
+[   30.695051] aw99703_set_brightness bl_mapping brt_val: 1265
+[   30.707027] aw99703_set_brightness brt_val is 196
+[   30.707033] aw99703_set_brightness bl_mapping brt_val: 1245
+[   30.709536] [ccci1/dpmaif]net txq0-3(status=0xf)[2048]:2048-0-0(0x0), 2048-0-0(0x0), 2048-0-0(0x0), 2048-0-0(0x0)
+[   30.709543] [ccci1/dpmaif]Current txq pos: w/r/rel=(0,0,0)(0,0,0)(0,0,0)(0,0,0), tx_busy=0,0,0,0
+[   30.709577] [ccci1/cif]total cnt=4699;rxq0 isr_cnt=5;rxq1 isr_cnt=82;rxq2 isr_cnt=0;rxq3 isr_cnt=4;rxq4 isr_cnt=2909;rxq5 isr_cnt=1699;rxq6 isr_cnt=2;rxq7 isr_cnt=0;rxq8 isr_cnt=0;rxq9 isr_cnt=0;rxq10 isr_cnt=0;rxq11 isr_cnt=0;rxq12 isr_cnt=0;rxq13 isr_cnt=0;rxq14 isr_cnt=0;rxq15 isr_cnt=1;rxq16 isr_cnt=0;rxq17 isr_cnt=0;rxq18 isr_cnt=0;rxq19 isr_cnt=0;rxq20 isr_cnt=0;rxq21 isr_cnt=0;rxq22 isr_cnt=0;rxq23 isr_cnt=0;
+[   30.712034] leds_mtk led_debug_log(215) :[Light] Set lcd-backlight directlyT:30.678,L:232 L:232 map:232    T:30.686,L:220 L:220 map:220    T:30.695,L:208 L:208 map:208    T:30.707,L:196 L:196 map:196    T:30.712,L:185 L:185 map:185    
+[   30.712053] aw99703_set_brightness brt_val is 185
+[   30.712055] aw99703_set_brightness bl_mapping brt_val: 1225
+[   30.720879] aw99703_set_brightness brt_val is 173
+[   30.720884] aw99703_set_brightness bl_mapping brt_val: 1202
+[   30.728919] aw99703_set_brightness brt_val is 161
+[   30.728925] aw99703_set_brightness bl_mapping brt_val: 1178
+[   30.737492] aw99703_set_brightness brt_val is 149
+[   30.737529] aw99703_set_brightness bl_mapping brt_val: 1151
+[   30.748010] aw99703_set_brightness brt_val is 137
+[   30.748015] aw99703_set_brightness bl_mapping brt_val: 1122
+[   30.753705] leds_mtk led_debug_log(215) :[Light] Set lcd-backlight directlyT:30.720,L:173 L:173 map:173    T:30.728,L:161 L:161 map:161    T:30.737,L:149 L:149 map:149    T:30.747,L:137 L:137 map:137    T:30.753,L:125 L:125 map:125    
+[   30.753725] aw99703_set_brightness brt_val is 125
+[   30.753727] aw99703_set_brightness bl_mapping brt_val: 1091
+[   30.761730] init: ReapLogP Persist PropSet [persist.vendor.mtk.provision.mccmnc.0] = [311480] at 30735, Done
+[   30.765138] init: ReapLogP Persist PropSet [persist.vendor.mtk.provision.int.01] = [] at 30737, Done
+[   30.767257] init: ReapLogP Persist PropSet [persist.vendor.mtk.provision.str.01002] = [] at 30740, Done
+[   30.768142] aw99703_set_brightness brt_val is 113
+[   30.768154] aw99703_set_brightness bl_mapping brt_val: 1056
+[   30.769698] init: ReapLogP Persist PropSet [persist.vendor.mtk.provision.str.01002] = [0] at 30742, Done
+[   30.772114] init: ReapLogP Persist PropSet [persist.vendor.mtk.provision.int.01] = [10,1;26,0;27,1;65,0;66,1;1004,0;] at 30744, Done
+[   30.773924] aw99703_set_brightness brt_val is 101
+[   30.773934] aw99703_set_brightness bl_mapping brt_val: 1018
+[   30.778171] aw99703_set_brightness brt_val is 91
+[   30.778177] aw99703_set_brightness bl_mapping brt_val: 982
+[   30.785532] [DISP]mtk_drm_crtc_mode_check++ from 0 to 3
+[   30.785668] [DISP]mtk_crtc_disp_mode_switch_begin++ from 0 to 3
+[   30.785677] [lcd_info][mtk_panel_ext_param_set] switch fps to 30
+[   30.785680] mtk_panel_ext_param_set:disp: mode fps=30
+[   30.785689] [lcd_info][mtk_panel_ext_param_set] switch fps to 30
+[   30.785691] mtk_panel_ext_param_set:disp: mode fps=30
+[   30.785707] [DISP]mtk_dsi_set_mmclk_by_datarate_V1, data_rate =832, mmclk=338 pixclk_min=144, dual=0
+[   30.785745] [DISP][fps]: drm_invoke_fps_chg_callbacks,new_fps =30
+[   30.785772] [DISP]mtk_crtc_disp_mode_switch_begin--
+[   30.791965] aw99703_set_brightness brt_val is 77
+[   30.791970] aw99703_set_brightness bl_mapping brt_val: 925
+[   30.812463] leds_mtk led_debug_log(215) :[Light] Set lcd-backlight directlyT:30.768,L:113 L:113 map:113    T:30.773,L:101 L:101 map:101    T:30.778,L:91 L:91 map:91    T:30.791,L:77 L:77 map:77    T:30.812,L:41 L:41 map:41    
+[   30.812484] aw99703_set_brightness brt_val is 41
+[   30.812487] aw99703_set_brightness bl_mapping brt_val: 707
+[   30.821967] init: ReapLogP Persist PropSet [persist.vendor.mtk.provision.mccmnc.0] = [311480] at 30796, Done
+[   30.823863] [wlan][2229]std_set_priv:(INIT INFO)  mtk std ioctl is called.
+[   30.823869] [wlan][2229]wext_set_country:(REQ ERROR) wext_set_country: IN
+[   30.823873] [wlan][2229]priv_driver_set_ce_or_fcc_country:(REQ INFO) applied=[1],name=[FCCScenario], index=[1]
+[   30.824353] asicFillCmdTxdInfo: 2 callbacks suppressed
+[   30.824361] [wlan][2195]asicFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x49] SEQ[94] SET[1] LEN[1504]
+[   30.824373] [wlan][2195]asicFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x49] SEQ[95] SET[1] LEN[1504]
+[   30.824664] [wlan][2229]priv_driver_set_ce_or_fcc_country:(REQ INFO)  priv_driver_set_ce_fcc command end
+[   30.824669] [wlan][2229]priv_driver_set_spec_country:(REQ INFO)  priv_driver_set_spec_country command end
+[   30.824701] [wlan][2195]kalPerMonUpdate:(SW4 INFO) <6645ms> Tput: 0(0.000mbps) [0:0:0:0][0:0:0:0][0:0:0:0][0:0:0:0] Pending:0/256 [0:0:0:0][0:0:0:0][0:0:0:0][0:0:0:0] Used:0/1536/512 [0][0][0][0][0] LQ[0:0:0] lv:0 th:5 fg:0x5 Mo:[0:0:0:0] TxDp[ST:BS:FO:QM:DP]:0:0:0:0:0
+[   30.824986] [wlan][2195]kalPerMonUpdate:(SW4 INFO) ndevdrp:[0:0:0:0][0:0:0:0][0:0:0:0] drv[RM,IL,RI,RT,RM,RW,RA,RB,DT,NS,IB,HS,LS,DD,ME,BD,NI,DR,TE,CE,DN,FE,DE,IE,TME]:72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+[   30.825003] [wlan][2195]asicFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x0F] SEQ[96] SET[1] LEN[88]
+[   30.825014] [wlan][2195]asicFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x0F] SEQ[97] SET[1] LEN[88]
+[   30.825764] [wlan][2195]asicFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x49] SEQ[98] SET[1] LEN[1504]
+[   30.825775] [wlan][2195]asicFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x49] SEQ[99] SET[1] LEN[1504]
+[   30.828050] [wlan][2196]halSetDriverOwn:(INIT INFO) DRIVER OWN Done[3088 us]
+[   30.828112] [wlan][2196]kalDumpHifStats:(HAL INFO) I[121 0] T[99 99 93 / 0 0 0 0] R[0 / 79] T_R[0 0 0 6 0]  R_R[0 0] Tok[0/1536] Rfb[2102/2102] txreg[0] rxreg[75]
+[   30.845479] aw99703_set_brightness brt_val is 31
+[   30.845484] aw99703_set_brightness bl_mapping brt_val: 610
+[   30.852454] [wlan][2196]halSetFWOwn:(INIT INFO) FW OWN:1, IntSta:0x10080000
+[   30.918342] init: ReapLogP Persist PropSet [persist.vendor.mtk.provision.int.01] = [] at 30797, Done
+[   30.920950] init: ReapLogP Persist PropSet [persist.vendor.mtk.provision.str.01002] = [] at 30893, Done
+[   30.923499] init: ReapLogP Persist PropSet [persist.vendor.mtk.provision.str.01002] = [0] at 30896, Done
+[   30.926325] init: ReapLogP Persist PropSet [persist.vendor.mtk.provision.int.01] = [10,1;11,1;26,0;27,1;65,0;66,1;1004,0;] at 30898, Done
+[   31.038605] init: ReapLogP Persist PropSet [persist.vendor.mtk.provision.mccmnc.0] = [311480] at 31012, Done
+[   31.045542] init: ReapLogP Persist PropSet [persist.vendor.mtk.provision.int.01] = [] at 31013, Done
+[   31.047786] init: ReapLogP Persist PropSet [persist.vendor.mtk.provision.str.01002] = [] at 31020, Done
+[   31.050067] init: ReapLogP Persist PropSet [persist.vendor.mtk.provision.str.01002] = [0] at 31022, Done
+[   31.052366] init: ReapLogP Persist PropSet [persist.vendor.mtk.provision.int.01] = [10,1;11,1;26,0;27,1;28,1;65,0;66,1;1004,0;] at 31025, Done
+[   31.195068] SELinux: avc:  denied  { find } for pid=1839 uid=1000 name=vendor.mediatek.hardware.mtkpower.IMtkPowerService/default scontext=u:r:system_server:s0 tcontext=u:object_r:default_android_service:s0 tclass=service_manager permissive=0
+[   31.202294] servicemanager: Caller(pid=2411,uid=1001,sid=u:r:radio:s0) Could not find android.hardware.radio.ims.IRadioIms/slot1 in the VINTF manifest. No alternative instances declared in VINTF.
+[   31.227048] [DISP]mtk_drm_crtc_mode_check++ from 3 to 0
+[   31.227130] [DISP]mtk_crtc_disp_mode_switch_begin++ from 3 to 0
+[   31.227138] [lcd_info][mtk_panel_ext_param_set] switch fps to 120
+[   31.227140] mtk_panel_ext_param_set:disp: mode fps=120
+[   31.227154] [DISP]mtk_dsi_set_mmclk_by_datarate_V1, data_rate =832, mmclk=338 pixclk_min=144, dual=0
+[   31.227161] [lcd_info][mtk_panel_ext_param_set] switch fps to 120
+[   31.227163] mtk_panel_ext_param_set:disp: mode fps=120
+[   31.227175] [DISP]mtk_dsi_set_mmclk_by_datarate_V1, data_rate =832, mmclk=338 pixclk_min=144, dual=0
+[   31.227211] [DISP][fps]: drm_invoke_fps_chg_callbacks,new_fps =120
+[   31.227220] [DISP]mtk_crtc_disp_mode_switch_begin--
+[   31.258988] aw99703_set_brightness brt_val is 88
+[   31.258993] aw99703_set_brightness bl_mapping brt_val: 970
+[   31.269759] aw99703_set_brightness brt_val is 148
+[   31.269765] aw99703_set_brightness bl_mapping brt_val: 1149
+[   31.303969] aw99703_set_brightness brt_val is 195
+[   31.303975] aw99703_set_brightness bl_mapping brt_val: 1243
+[   31.330099] init: ReapLogP Persist PropSet [persist.vendor.mtk_usp_cfg_ctrl] = [524289] at 31304, Done
+[   31.330674] servicemanager: Add service begin: name=carrierexpress,allowIsolated=1,dumpPriority=8
+[   31.330845] servicemanager: Add service successfully: carrierexpress
+[   31.338243] leds_mtk led_debug_log(215) :[Light] Set lcd-backlight directlyT:30.845,L:31 L:31 map:31    T:31.258,L:88 L:88 map:88    T:31.269,L:148 L:148 map:148    T:31.303,L:195 L:195 map:195    T:31.338,L:243 L:243 map:243    
+[   31.338275] aw99703_set_brightness brt_val is 243
+[   31.338280] aw99703_set_brightness bl_mapping brt_val: 1319
+[   31.375425] aw99703_set_brightness brt_val is 291
+[   31.375437] aw99703_set_brightness bl_mapping brt_val: 1380
+[   31.382573] aw99703_set_brightness brt_val is 302
+[   31.382584] aw99703_set_brightness bl_mapping brt_val: 1393
+[   31.390163] aw99703_set_brightness brt_val is 314
+[   31.390175] aw99703_set_brightness bl_mapping brt_val: 1406
+[   31.401649] aw99703_set_brightness brt_val is 322
+[   31.401661] aw99703_set_brightness bl_mapping brt_val: 1415
+[   31.449405] servicemanager: Caller(pid=3353,uid=10298,sid=u:r:priv_app:s0:c512,c768) Could not find android.hardware.graphics.allocator.IAllocator/default in the VINTF manifest. No alternative instances declared in VINTF.
+[   31.463670] servicemanager: Caller(pid=3353,uid=10298,sid=u:r:priv_app:s0:c512,c768) Could not find android.hardware.graphics.allocator.IAllocator/default in the VINTF manifest. No alternative instances declared in VINTF.
+[   31.521184] [wdtk] kick watchdog
+[   31.747377] type=1400 audit(1775802741.196:114): avc:  denied  { read } for  comm="binder:1210_4" name="u:object_r:vendor_default_prop:s0" dev="tmpfs" ino=500 scontext=u:r:audioserver:s0 tcontext=u:object_r:vendor_default_prop:s0 tclass=file permissive=0
+[   31.754853] st21nfc_poll enable irq
+[   31.754868] st21nfc_dev_write : writing 4 bytes.
+[   31.755000] i2c-mt65xx 11ed0000.i2c: addr: 8, transfer ACK error
+[   31.755068] st21nfc_dev_write : i2c_master_send returned -6
+[   31.759321] st21nfc_dev_write : writing 4 bytes.
+[   31.759567] st21nfc_poll enable irq
+[   31.759713] st21nfc_poll return ready
+[   31.759731] st21nfc_dev_read : reading 4 bytes.
+[   31.759935] st21nfc_dev_read : reading 1 bytes.
+[   31.763604] st21nfc_dev_ioctl get gpio result 0
+[   31.763620] st21nfc_poll enable irq
+[   31.783464] [SCP] sensor id not in sensor freq table
+[   31.811757] mt6855-audio 11050000.mt6855-afe-pcm: mt6855_i2s_hd_set(), kcontrol name I2S3_HD_Mux, hd_en 1
+[   31.811842] [Awinic][9-0034]aw883xx_dev_set_ramp_status: original ramp_en=0, set_ramp=0, channel=0
+[   31.811857] [Awinic][9-0034]aw883xx_dev_set_attenuate_status: original attenuate_en=0, set_attenuate=0, channel=0
+[   31.812619] mt6855-audio 11050000.mt6855-afe-pcm: mt6855_afe_runtime_resume()
+[   31.812624] mt6855-audio 11050000.mt6855-afe-pcm: mt6855_afe_enable_clock()
+[   31.812863] [Awinic][9-0034]aw883xx_startup: playback enter
+[   31.812866] [Awinic][9-0037]aw883xx_startup: playback enter
+[   31.812910] [Awinic][9-0034]aw883xx_shutdown: stream playback
+[   31.812911] [Awinic][9-0037]aw883xx_shutdown: stream playback
+[   31.813782] [Awinic][9-0034]aw883xx_startup: playback enter
+[   31.813788] [Awinic][9-0037]aw883xx_startup: playback enter
+[   31.813822] I2S3: mt6855_i2s_hw_params_fixup(), fix format to 32bit
+[   31.813828] mt6855-audio 11050000.mt6855-afe-pcm: mtk_dai_i2s_set_sysclk(), freq 6144000
+[   31.813829] I2S3: mt6855_i2s_hw_params_fixup(), fix format to 32bit
+[   31.813832] [Awinic][9-0034]aw883xx_hw_params: STREAM_PLAYBACK requested rate: 48000, width = 32
+[   31.813833] I2S3: mt6855_i2s_hw_params_fixup(), fix format to 32bit
+[   31.813835] [Awinic][9-0037]aw883xx_hw_params: STREAM_PLAYBACK requested rate: 48000, width = 32
+[   31.813836] I2S3: mt6855_i2s_hw_params_fixup(), fix format to 32bit
+[   31.813838] mt6855-audio 11050000.mt6855-afe-pcm: mtk_dai_i2s_config(), id 31, rate 48000, format 10
+[   31.813849] mt6855-audio 11050000.mt6855-afe-pcm: mtk_audio_sram_free(), user 000000006e5e874a
+[   31.813853] mt6855-audio 11050000.mt6855-afe-pcm: mtk_afe_fe_hw_params(), DL2, use_adsp_share_mem 0, using_sram 0, use_dram_only 1, ch 2, rate 48000, fmt 6, dma_addr 0x00000000fc300000, dma_area ffffffc00d783000, dma_bytes 0x1000
+[   31.813856] mt6855-audio 11050000.mt6855-afe-pcm: mt6855_afe_dram_request(), dram_resource_counter 0
+[   31.813879] get_scp_audio_base local_scp_audio == NULL
+[   31.814145] mt6855-audio 11050000.mt6855-afe-pcm: mtk_apll_event(), name APLL2, event 0x1
+[   31.814245] mt6855-audio 11050000.mt6855-afe-pcm: mtk_mclk_en_event(), name I2S3_MCLK_EN, event 0x1
+[   31.814260] mt6855-audio 11050000.mt6855-afe-pcm: mtk_i2s_hd_en_event(), name I2S3_HD_EN, event 0x1
+[   31.814267] mt6855-audio 11050000.mt6855-afe-pcm: mtk_i2s_en_event(), name I2S3_EN, event 0x1
+[   31.814387] [Awinic][9-0034]aw883xx_mute: mute state=0
+[   31.814397] [Awinic][9-0034]aw883xx_dev_fw_update: scene no change, not update
+[   31.814400] [Awinic][9-0034]aw883xx_start_pa: enter
+[   31.814403] [Awinic][9-0034]aw883xx_device_start: enter
+[   31.814795] [Awinic][9-0034]aw_dev_pwd: done
+[   31.817532] [Awinic][9-0034]aw_dev_amppd: done
+[   31.818583] st21nfc_poll enable irq
+[   31.818621] st21nfc_dev_write : writing 18 bytes.
+[   31.819177] st21nfc_poll enable irq
+[   31.819182] [Awinic][9-0034]aw883xx_dev_dsp_enable: done
+[   31.819186] [Awinic][9-0034]aw_pid_2049_dsp_fw_check: enter
+[   31.819307] st21nfc_poll return ready
+[   31.819327] st21nfc_dev_read : reading 4 bytes.
+[   31.819526] st21nfc_dev_read : reading 1 bytes.
+[   31.820063] st21nfc_dev_ioctl get gpio result 0
+[   31.820084] st21nfc_poll enable irq
+[   31.821658] st21nfc_poll enable irq
+[   31.821696] st21nfc_dev_write : writing 4 bytes.
+[   31.821917] st21nfc_poll enable irq
+[   31.822122] st21nfc_poll return ready
+[   31.822143] st21nfc_dev_read : reading 4 bytes.
+[   31.822343] st21nfc_dev_read : reading 1 bytes.
+[   31.822825] st21nfc_dev_ioctl get gpio result 0
+[   31.822846] st21nfc_poll enable irq
+[   31.823667] st21nfc_poll enable irq
+[   31.823701] st21nfc_dev_write : writing 7 bytes.
+[   31.823983] st21nfc_poll enable irq
+[   31.824135] st21nfc_poll return ready
+[   31.824160] st21nfc_dev_read : reading 4 bytes.
+[   31.824365] st21nfc_dev_read : reading 2 bytes.
+[   31.824552] [Awinic][9-0034]aw_pid_2049_dsp_fw_check: dsp fw check success
+[   31.824923] st21nfc_dev_ioctl get gpio result 0
+[   31.824945] st21nfc_poll enable irq
+[   31.826438] [Awinic][9-0034]aw883xx_dev_dsp_enable: done
+[   31.826801] [Awinic][9-0034]aw883xx_dev_dsp_enable: done
+[   31.827880] [Awinic][9-0034]aw883xx_dev_get_dsp_status: enter
+[   31.828874] [Awinic][9-0034]aw883xx_dev_mute: channel=0,ramp_en=0,cur_prof=0
+[   31.837183] [Awinic][9-0034]aw883xx_dev_mute: done
+[   31.837598] [Awinic][9-0034]aw883xx_dev_clear_int_status: done
+[   31.837789] [Awinic][9-0034]aw883xx_dev_set_intmask: done
+[   31.837797] [Awinic][9-0034]aw883xx_monitor_start: enter
+[   31.837813] [Awinic][9-0034]aw883xx_device_start: done
+[   31.837817] [Awinic][9-0034]aw883xx_start_pa: start success
+[   31.837828] [Awinic][9-0037]aw883xx_mute: mute state=0
+[   31.837832] [Awinic][9-0037]aw883xx_dev_fw_update: scene no change, not update
+[   31.837834] [Awinic][9-0037]aw883xx_start_pa: enter
+[   31.837836] [Awinic][9-0037]aw883xx_device_start: enter
+[   31.838436] [Awinic][9-0037]aw_dev_pwd: done
+[   31.838628] [Awinic][9-0034]aw_monitor_get_chip_voltage: chip voltage is 4322
+[   31.838808] [Awinic][9-0034]aw_monitor_get_chip_temperature: chip temperature = 33
+[   31.839481] [Awinic][9-0034]aw883xx_dev_get_dsp_status: enter
+[   31.840210] [Awinic][9-0034]aw_monitor_set_vmax: get monitor vmax = 0x0, set vmax = 0xfd70
+[   31.841082] [Awinic][9-0037]aw_dev_amppd: done
+[   31.842917] [Awinic][9-0037]aw883xx_dev_dsp_enable: done
+[   31.842930] [Awinic][9-0037]aw_pid_2049_dsp_fw_check: enter
+[   31.848258] [Awinic][9-0037]aw_pid_2049_dsp_fw_check: dsp fw check success
+[   31.850168] [Awinic][9-0037]aw883xx_dev_dsp_enable: done
+[   31.850537] [Awinic][9-0037]aw883xx_dev_dsp_enable: done
+[   31.851629] [Awinic][9-0037]aw883xx_dev_get_dsp_status: enter
+[   31.852608] [Awinic][9-0037]aw883xx_dev_mute: channel=1,ramp_en=0,cur_prof=0
+[   31.861475] [Awinic][9-0037]aw883xx_dev_mute: done
+[   31.861905] [Awinic][9-0037]aw883xx_dev_clear_int_status: done
+[   31.862086] [Awinic][9-0037]aw883xx_dev_set_intmask: done
+[   31.862095] [Awinic][9-0037]aw883xx_monitor_start: enter
+[   31.862111] [Awinic][9-0037]aw883xx_device_start: done
+[   31.862114] [Awinic][9-0037]aw883xx_start_pa: start success
+[   31.862139] get_scp_audio_base local_scp_audio == NULL
+[   31.862488] [Awinic][9-0037]aw_monitor_get_chip_voltage: chip voltage is 4311
+[   31.862668] [Awinic][9-0037]aw_monitor_get_chip_temperature: chip temperature = 38
+[   31.863338] [Awinic][9-0037]aw883xx_dev_get_dsp_status: enter
+[   31.863406] [Awinic][9-0034]aw883xx_switch_set: set value:1
+[   31.863411] [Awinic][9-0034]aw883xx_switch_set: PA switch not change
+[   31.863464] [Awinic][9-0034]aw883xx_profile_set: index no change
+[   31.863490] [Awinic][9-0037]aw883xx_profile_set: index no change
+[   31.864006] [Awinic][9-0037]aw_monitor_set_vmax: get monitor vmax = 0x0, set vmax = 0xff20
+[   31.864221] mt6855-audio 11050000.mt6855-afe-pcm: mt6855_fe_trigger(), DL2 cmd 1, irq_id 1, is_afe_need_triggered 1, no_period_wakeup 0
+[   31.883818] servicemanager: Notifying apexservice they don't (previously: do) have clients when we now have no record of a client
+[   31.883990] AidlLazyServiceRegistrar: Process has 0 (of 1 available) client(s) in use after notification apexservice has clients: 0
+[   31.884005] AidlLazyServiceRegistrar: Trying to shut down the service. No clients in use for any service in process.
+[   31.884409] servicemanager: Caller(pid=910,uid=0,sid=u:r:apexd:s0) Unregistering apexservice
+[   31.884429] BpBinder: onLastStrongRef automatically unlinking death recipients: 
+[   31.884582] AidlLazyServiceRegistrar: Unregistered all clients and exiting
+[   31.890069] init: Service 'apexd' (pid 910) exited with status 0 oneshot service took 23.922001 seconds in background
+[   31.890084] init: Sending signal 9 to service 'apexd' (pid 910) process group...
+[   31.890364] libprocessgroup: Removed cgroup /sys/fs/cgroup/uid_0/pid_910
+[   31.890432] libprocessgroup: RemoveCgroup: /dev/memcg/apps/uid_0/pid_910 does not exist.
+[   31.989550] [name:spm&][SPM] system_bus didn't enter MCUSYS off, MCUSYS cnt is no update
+[   31.989640] [name:spm&] Pending Wakeup Sources: st21nfc trans_data ttyC0 USB suspend lock disp_crtc0_wakelock cmdq_0_pm_lock 
+[   32.642302] servicemanager: Caller(pid=875,uid=1017,sid=u:r:keystore:s0) Found android.hardware.security.keymint.IRemotelyProvisionedComponent/default in device VINTF manifest.
+[   32.825952] Task-Turbo: Task-Turbo: task_turbo_feats is change to 15 successfully
+[   32.829457] type=1400 audit(1775802742.276:115): avc:  denied  { read } for  comm="mtkPowerMsgHdl" name="u:object_r:system_prop:s0" dev="tmpfs" ino=457 scontext=u:r:mtk_hal_power:s0 tcontext=u:object_r:system_prop:s0 tclass=file permissive=0
+[   32.938760] init: Sending signal 9 to service 'idmap2d' (pid 1462) process group...
+[   32.944449] libprocessgroup: Removed cgroup /sys/fs/cgroup/uid_1000/pid_1462
+[   32.944624] libprocessgroup: RemoveCgroup: /dev/memcg/apps/uid_1000/pid_1462 does not exist.
+[   32.945152] init: Control message: Processed ctl.stop for 'idmap2d' from pid: 1839 (system_server)
+[   32.945763] init: Service 'idmap2d' (pid 1462) received signal 9
+[   32.945795] init: Sending signal 9 to service 'idmap2d' (pid 1462) process group...
+[   32.945920] libprocessgroup: Failed to open /sys/fs/cgroup/uid_1000/pid_1462/cgroup.procs: No such file or directory
+[   33.088162] mt6855-audio 11050000.mt6855-afe-pcm: mt6855_i2s_hd_set(), kcontrol name I2S0_HD_Mux, hd_en 0
+[   33.088188] mt6855-audio 11050000.mt6855-afe-pcm: mt6855_i2s_hd_set(), kcontrol name I2S3_HD_Mux, hd_en 0
+[   33.088333] mt6855-audio 11050000.mt6855-afe-pcm: mt6855_fe_trigger(), DL2 cmd 0, irq_id 1, is_afe_need_triggered 1, no_period_wakeup 0
+[   33.088380] mt6855-audio 11050000.mt6855-afe-pcm: mtk_afe_fe_hw_free(), DL2, use_adsp_share_mem 0, using_sram 0, use_dram_only 1, dma_addr 0x00000000fc300000, dma_area 0000000051261c33, dma_bytes 0x1000, vow_barge_in_enable 0
+[   33.088386] mt6855-audio 11050000.mt6855-afe-pcm: mtk_afe_fe_hw_free() DL2 ret:-1
+[   33.088389] get_scp_audio_base local_scp_audio == NULL
+[   33.088394] mt6855-audio 11050000.mt6855-afe-pcm: mt6855_afe_dram_release(), dram_resource_counter 1
+[   33.088413] is_adsp_genpool_addr_valid pool == NULL
+[   33.088416] get_scp_audio_base local_scp_audio == NULL
+[   33.088424] [Awinic][9-0034]aw883xx_mute: mute state=1
+[   33.088431] [Awinic][9-0034]aw883xx_monitor_stop: enter
+[   33.105463] [Awinic][9-0034]aw883xx_dev_mute: done
+[   33.111339] [Awinic][9-0034]aw883xx_dev_set_intmask: done
+[   33.111992] [Awinic][9-0034]aw883xx_dev_dsp_enable: done
+[   33.112386] [Awinic][9-0034]aw_dev_amppd: done
+[   33.112767] [Awinic][9-0034]aw_dev_pwd: done
+[   33.112779] [Awinic][9-0034]aw883xx_device_stop: done
+[   33.112792] [Awinic][9-0037]aw883xx_mute: mute state=1
+[   33.112800] [Awinic][9-0037]aw883xx_monitor_stop: enter
+[   33.129894] [Awinic][9-0037]aw883xx_dev_mute: done
+[   33.135642] [Awinic][9-0037]aw883xx_dev_set_intmask: done
+[   33.136206] [Awinic][9-0037]aw883xx_dev_dsp_enable: done
+[   33.136585] [Awinic][9-0037]aw_dev_amppd: done
+[   33.136996] [Awinic][9-0037]aw_dev_pwd: done
+[   33.137006] [Awinic][9-0037]aw883xx_device_stop: done
+[   33.137025] [Awinic][9-0034]aw883xx_shutdown: stream playback
+[   33.137028] [Awinic][9-0037]aw883xx_shutdown: stream playback
+[   33.138043] mt6855-audio 11050000.mt6855-afe-pcm: mtk_i2s_en_event(), name I2S3_EN, event 0x8
+[   33.138093] mt6855-audio 11050000.mt6855-afe-pcm: mtk_i2s_hd_en_event(), name I2S3_HD_EN, event 0x8
+[   33.138098] mt6855-audio 11050000.mt6855-afe-pcm: mtk_mclk_en_event(), name I2S3_MCLK_EN, event 0x8
+[   33.138112] mt6855-audio 11050000.mt6855-afe-pcm: mtk_apll_event(), name APLL2, event 0x8
+[   33.138297] mt6855-audio 11050000.mt6855-afe-pcm: mt6855_afe_runtime_suspend()
+[   33.138321] mt6855-audio 11050000.mt6855-afe-pcm: mt6855_afe_disable_clock()
+[   33.266488] [DISP]mtk_drm_crtc_mode_check++ from 0 to 1
+[   33.266572] [DISP]mtk_crtc_disp_mode_switch_begin++ from 0 to 1
+[   33.266581] [lcd_info][mtk_panel_ext_param_set] switch fps to 90
+[   33.266583] mtk_panel_ext_param_set:disp: mode fps=90
+[   33.266593] [lcd_info][mtk_panel_ext_param_set] switch fps to 90
+[   33.266595] mtk_panel_ext_param_set:disp: mode fps=90
+[   33.266611] [DISP]mtk_dsi_set_mmclk_by_datarate_V1, data_rate =832, mmclk=338 pixclk_min=144, dual=0
+[   33.266657] [DISP][fps]: drm_invoke_fps_chg_callbacks,new_fps =90
+[   33.266675] [DISP]mtk_crtc_disp_mode_switch_begin--
+[   33.563417] servicemanager: Caller(pid=4871,uid=10406,sid=u:r:rkpdapp:s0:c150,c257,c512,c768) Found android.hardware.security.keymint.IRemotelyProvisionedComponent/default in device VINTF manifest.
+[   33.665557] SELinux: avc:  denied  { find } for pid=3294 uid=10396 name=motorola.hardware.sensors.ISensorsCalibrate/default scontext=u:r:moto_app:s0:c512,c768 tcontext=u:object_r:default_android_service:s0 tclass=service_manager permissive=0
+[   33.785922] [ma_to_mw] 4352(mV) * 5500(mA) = 23936(mW)
+[   33.785936] [DLPT_final] 5500,-22,88,5500
+[   34.336542] [DISP]mtk_drm_crtc_mode_check++ from 1 to 2
+[   34.336637] [DISP]mtk_crtc_disp_mode_switch_begin++ from 1 to 2
+[   34.336646] [lcd_info][mtk_panel_ext_param_set] switch fps to 60
+[   34.336649] mtk_panel_ext_param_set:disp: mode fps=60
+[   34.336659] [lcd_info][mtk_panel_ext_param_set] switch fps to 60
+[   34.336661] mtk_panel_ext_param_set:disp: mode fps=60
+[   34.336677] [DISP]mtk_dsi_set_mmclk_by_datarate_V1, data_rate =832, mmclk=337 pixclk_min=144, dual=0
+[   34.336728] [DISP][fps]: drm_invoke_fps_chg_callbacks,new_fps =60
+[   34.336749] [DISP]mtk_crtc_disp_mode_switch_begin--
+[   34.533089] init: ReapLogP Persist PropSet [persist.radio.is_vonr_enabled_0] = [false] at 34507, Done
+[   34.542952] init: ReapLogP Persist PropSet [persist.vendor.mtk.volte.enable] = [1] at 34517, Done
+[   34.543983] init: ReapLogP Persist PropSet [persist.vendor.mtk.vilte.enable] = [0] at 34518, Done
+[   34.544892] init: ReapLogP Persist PropSet [persist.vendor.mtk.vonr.enable] = [0] at 34519, Done
+[   34.545881] init: ReapLogP Persist PropSet [persist.vendor.mtk.vinr.enable] = [0] at 34519, Done
+[   34.547758] init: ReapLogP Persist PropSet [persist.vendor.radio.volte_state] = [1] at 34522, Done
+[   34.549615] timesync host boottime 34524112078
+[   34.609112] init: ReapLogP Persist PropSet [persist.vendor.mtk.volte.enable] = [1] at 34583, Done
+[   34.609675] init: ReapLogP Persist PropSet [persist.vendor.mtk.vilte.enable] = [0] at 34583, Done
+[   34.610204] init: ReapLogP Persist PropSet [persist.vendor.mtk.vonr.enable] = [0] at 34584, Done
+[   34.610750] init: ReapLogP Persist PropSet [persist.vendor.mtk.vinr.enable] = [0] at 34585, Done
+[   34.611915] init: ReapLogP Persist PropSet [persist.vendor.radio.volte_state] = [1] at 34586, Done
+[   34.796700] st21nfc_poll enable irq
+[   34.796715] st21nfc_dev_write : writing 5 bytes.
+[   34.796938] st21nfc_poll enable irq
+[   34.797225] st21nfc_poll return ready
+[   34.797233] st21nfc_dev_read : reading 4 bytes.
+[   34.797401] st21nfc_dev_read : reading 1 bytes.
+[   34.797878] st21nfc_dev_ioctl get gpio result 0
+[   34.797888] st21nfc_poll enable irq
+[   34.799431] st21nfc_poll return ready
+[   34.799444] st21nfc_dev_read : reading 4 bytes.
+[   34.799739] st21nfc_dev_read : reading 1 bytes.
+[   34.800514] st21nfc_dev_ioctl get gpio result 1
+[   34.800532] st21nfc_dev_read : reading 4 bytes.
+[   34.800744] st21nfc_dev_read : reading 4 bytes.
+[   34.801191] st21nfc_dev_ioctl get gpio result 1
+[   34.801197] st21nfc_dev_read : reading 4 bytes.
+[   34.801526] st21nfc_dev_read : reading 11 bytes.
+[   34.802214] st21nfc_dev_ioctl get gpio result 0
+[   34.802233] st21nfc_poll enable irq
+[   34.830335] type=1400 audit(1775802744.276:116): avc:  denied  { read } for  comm="SarControlServi" name="swtp_gpio_state" dev="sysfs" ino=78907 scontext=u:r:moto_sar_app:s0:c512,c768 tcontext=u:object_r:sysfs_swtp_gpio_state:s0 tclass=file permissive=0 app=com.motorola.sarcontrol
+[   35.000996] [DISP]mtk_drm_crtc_mode_check++ from 2 to 1
+[   35.001097] [DISP]mtk_crtc_disp_mode_switch_begin++ from 2 to 1
+[   35.001106] [lcd_info][mtk_panel_ext_param_set] switch fps to 90
+[   35.001108] mtk_panel_ext_param_set:disp: mode fps=90
+[   35.001120] [DISP]mtk_dsi_set_mmclk_by_datarate_V1, data_rate =832, mmclk=338 pixclk_min=144, dual=0
+[   35.001127] [lcd_info][mtk_panel_ext_param_set] switch fps to 90
+[   35.001129] mtk_panel_ext_param_set:disp: mode fps=90
+[   35.001141] [DISP]mtk_dsi_set_mmclk_by_datarate_V1, data_rate =832, mmclk=338 pixclk_min=144, dual=0
+[   35.001196] [DISP][fps]: drm_invoke_fps_chg_callbacks,new_fps =90
+[   35.001212] [DISP]mtk_crtc_disp_mode_switch_begin--
+[   35.148100] servicemanager: Caller(pid=875,uid=1017,sid=u:r:keystore:s0) Found android.hardware.security.keymint.IRemotelyProvisionedComponent/default in device VINTF manifest.
+[   35.152787] st21nfc_poll enable irq
+[   35.152821] st21nfc_dev_write : writing 6 bytes.
+[   35.153129] st21nfc_poll enable irq
+[   35.153311] st21nfc_poll return ready
+[   35.153333] st21nfc_dev_read : reading 4 bytes.
+[   35.153615] st21nfc_dev_read : reading 5 bytes.
+[   35.154258] st21nfc_dev_ioctl get gpio result 1
+[   35.154274] st21nfc_dev_read : reading 4 bytes.
+[   35.154495] st21nfc_dev_read : reading 3 bytes.
+[   35.155007] st21nfc_dev_ioctl get gpio result 0
+[   35.155026] st21nfc_poll enable irq
+[   35.155721] st21nfc_poll enable irq
+[   35.155755] st21nfc_dev_write : writing 8 bytes.
+[   35.156061] st21nfc_poll enable irq
+[   35.156294] st21nfc_poll return ready
+[   35.156302] st21nfc_dev_read : reading 4 bytes.
+[   35.156472] st21nfc_dev_read : reading 196 bytes.
+[   35.161383] st21nfc_dev_ioctl get gpio result 0
+[   35.161395] st21nfc_poll enable irq
+[   35.188967] st21nfc_poll enable irq
+[   35.188985] st21nfc_dev_write : writing 6 bytes.
+[   35.189933] st21nfc_poll return ready
+[   35.189942] st21nfc_dev_read : reading 4 bytes.
+[   35.190132] st21nfc_dev_read : reading 5 bytes.
+[   35.191051] st21nfc_dev_ioctl get gpio result 1
+[   35.191068] st21nfc_dev_read : reading 4 bytes.
+[   35.191319] st21nfc_dev_read : reading 3 bytes.
+[   35.195820] servicemanager: Caller(pid=3737,uid=10369,sid=u:r:platform_app:s0:c512,c768) Could not find android.hardware.graphics.allocator.IAllocator/default in the VINTF manifest. No alternative instances declared in VINTF.
+[   35.197935] st21nfc_dev_ioctl get gpio result 0
+[   35.197957] st21nfc_poll enable irq
+[   35.204581] st21nfc_poll enable irq
+[   35.204614] st21nfc_dev_write : writing 4 bytes.
+[   35.204860] st21nfc_poll enable irq
+[   35.204985] st21nfc_poll return ready
+[   35.205003] st21nfc_dev_read : reading 4 bytes.
+[   35.205221] st21nfc_dev_read : reading 1 bytes.
+[   35.205806] st21nfc_dev_ioctl get gpio result 0
+[   35.205827] st21nfc_poll enable irq
+[   35.207298] st21nfc_poll enable irq
+[   35.207338] st21nfc_dev_write : writing 6 bytes.
+[   35.207612] st21nfc_poll enable irq
+[   35.207829] st21nfc_poll return ready
+[   35.207851] st21nfc_dev_read : reading 4 bytes.
+[   35.208214] st21nfc_dev_read : reading 5 bytes.
+[   35.208862] st21nfc_dev_ioctl get gpio result 1
+[   35.208880] st21nfc_dev_read : reading 4 bytes.
+[   35.209121] st21nfc_dev_read : reading 3 bytes.
+[   35.209725] st21nfc_dev_ioctl get gpio result 0
+[   35.209745] st21nfc_poll enable irq
+[   35.211780] st21nfc_poll enable irq
+[   35.211813] st21nfc_dev_write : writing 82 bytes.
+[   35.213872] st21nfc_poll enable irq
+[   35.216197] servicemanager: Caller(pid=4871,uid=10406,sid=u:r:rkpdapp:s0:c150,c257,c512,c768) Found android.hardware.security.keymint.IRemotelyProvisionedComponent/default in device VINTF manifest.
+[   35.236763] servicemanager: Caller(pid=3737,uid=10369,sid=u:r:platform_app:s0:c512,c768) Could not find android.hardware.graphics.allocator.IAllocator/default in the VINTF manifest. No alternative instances declared in VINTF.
+[   35.264474] st21nfc_poll return ready
+[   35.264508] st21nfc_dev_read : reading 4 bytes.
+[   35.264835] st21nfc_dev_read : reading 1 bytes.
+[   35.265677] st21nfc_dev_ioctl get gpio result 0
+[   35.265702] st21nfc_poll enable irq
+[   35.271136] st21nfc_poll enable irq
+[   35.271172] st21nfc_dev_write : writing 18 bytes.
+[   35.271766] st21nfc_poll enable irq
+[   35.271900] st21nfc_poll return ready
+[   35.271922] st21nfc_dev_read : reading 4 bytes.
+[   35.272137] st21nfc_dev_read : reading 1 bytes.
+[   35.273841] st21nfc_dev_ioctl get gpio result 0
+[   35.273860] st21nfc_poll enable irq
+[   35.284530] [wlan][1187]priv_driver_set_power_control:(REQ INFO) applied=[0], name=[MySAR], index=[0], setting=[(null)]
+[   35.284977] [wlan][2195]kalPerMonUpdate:(SW4 INFO) <4460ms> Tput: 0(0.000mbps) [0:0:0:0][0:0:0:0][0:0:0:0][0:0:0:0] Pending:0/256 [0:0:0:0][0:0:0:0][0:0:0:0][0:0:0:0] Used:0/1536/512 [0][0][0][0][0] LQ[0:0:0] lv:0 th:5 fg:0x5 Mo:[0:0:0:0] TxDp[ST:BS:FO:QM:DP]:0:0:0:0:0
+[   35.284992] [wlan][2195]kalPerMonUpdate:(SW4 INFO) ndevdrp:[0:0:0:0][0:0:0:0][0:0:0:0] drv[RM,IL,RI,RT,RM,RW,RA,RB,DT,NS,IB,HS,LS,DD,ME,BD,NI,DR,TE,CE,DN,FE,DE,IE,TME]:73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+[   35.419184] [wlan][1503]SCANLOG:(SCN INFO) [SCN:100:K2D] Scan flags=0x8 [mac]addr=02:00:00:00:00:00 mask=03:00:00:00:00:00 n_ssids=1: n_channels=26: 1 2 3 4 5 6 7 8 9 10 11 12 13 36 40 44 48 52 56 60 64 149 153 157 161 165
+[   35.419221] [wlan][1503]mtk_cfg80211_scan:(REQ INFO) n_ssid=(1->0) n_channel(26==>26) wildcard=0x1 flag=0x8 random_mac=c6:2e:50:4c:65:82
+[   35.419636] [wlan][2195]aisFsmSteps:(AIS STATE) [AIS0] TRANSITION: [IDLE] -> [SCAN]
+[   35.419655] [wlan][2195]secPrivacySeekForBcEntry:(RSN INFO) [Wlan index] BSS#0 keyid#255 P=0 use WlanIndex#5 STAIdx=254 da:32:19:34:03:af (OpMode:0, NetworkType:0, CheckKeyId:0)
+[   35.419662] [wlan][2195]nicActivateNetworkEx:(RSN INFO) [BSS index]=0 OwnMac1=da:32:19:34:03:af BSSID=00:00:00:00:00:00 BMCIndex = 5 NetType=0
+[   35.419672] [wlan][2195]asicFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x11] SEQ[100] SET[1] LEN[44]
+[   35.419685] [wlan][2195]scanSetRequestChannel:(SCN INFO) channel num(26=>26) 00000000 00000000 00000022 22200000 00000000 00000001 11111110 00003FFE
+[   35.419961] [wlan][2195]scnFsmSteps:(SCN STATE) [SCAN]TRANSITION: [IDLE] -> [SCANNING]
+[   35.420003] [wlan][2195]SCANLOG:(SCN INFO) [SCN:200:D2F] ScanReqV2: ScanType=1,BSS=0,SSIDType=1,Num=0,Ext=0,ChannelType=4,Num=26,Ext=0,Seq=2,Ver=1,Dw=0,Min=0,Func=0x13,D=0,Mac=c6:2e:50:4c:65:82,BSSID=00:00:00:00:00:00,,Ch: 1 2 3 4 5 6 7 8 9 10 11 12 13 36 40 44 48 52 56 60 64 149 153 157 161 165
+[   35.420020] [wlan][2195]asicFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x03] SEQ[101] SET[1] LEN[1220]
+[   35.423389] [wlan][2196]halSetDriverOwn:(INIT INFO) DRIVER OWN Done[3245 us]
+[   35.423452] [wlan][2196]kalDumpHifStats:(HAL INFO) I[126 0] T[101 101 99 / 0 0 0 0] R[0 / 80] T_R[0 0 0 2 0]  R_R[0 0] Tok[0/1536] Rfb[2102/2102] txreg[0] rxreg[76]
+[   35.639695] servicemanager: Add service begin: name=ions,allowIsolated=0,dumpPriority=8
+[   35.639891] servicemanager: Add service successfully: ions
+[   35.829744] Task-Turbo: Task-Turbo: task_turbo_feats is change to 0 successfully
+[   35.845340] init: ReapLogP Persist PropSet [persist.sys.gps.lpp] = [] at 35819, Done
+[   36.286039] [wlan][2195]kalPerMonUpdate:(SW4 INFO) <1001ms> Tput: 0(0.000mbps) [0:0:0:0][0:0:0:0][0:0:0:0][0:0:0:0] Pending:0/256 [0:0:0:0][0:0:0:0][0:0:0:0][0:0:0:0] Used:0/1536/512 [0][0][0][0][0] LQ[0:0:0] lv:0 th:5 fg:0x5 Mo:[0:0:0:0] TxDp[ST:BS:FO:QM:DP]:0:0:0:0:0
+[   36.286046] [wlan][2195]kalPerMonUpdate:(SW4 INFO) ndevdrp:[0:0:0:0][0:0:0:0][0:0:0:0] drv[RM,IL,RI,RT,RM,RW,RA,RB,DT,NS,IB,HS,LS,DD,ME,BD,NI,DR,TE,CE,DN,FE,DE,IE,TME]:126,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+[   36.405993] binder: 2621:3833 transaction failed 29189/-22, size 168-0 line 3155
+[   36.433446] [wlan][2196]kalDumpHifStats:(HAL INFO) I[183 0] T[101 101 101 / 0 0 0 0] R[0 / 137] T_R[0 0 0 0 0]  R_R[0 0] Tok[0/1536] Rfb[2101/2102] txreg[0] rxreg[133]
+[   36.711561] [DISP]mtk_drm_crtc_mode_check++ from 1 to 0
+[   36.711655] [DISP]mtk_crtc_disp_mode_switch_begin++ from 1 to 0
+[   36.711664] [lcd_info][mtk_panel_ext_param_set] switch fps to 120
+[   36.711666] mtk_panel_ext_param_set:disp: mode fps=120
+[   36.711679] [DISP]mtk_dsi_set_mmclk_by_datarate_V1, data_rate =832, mmclk=338 pixclk_min=144, dual=0
+[   36.711686] [lcd_info][mtk_panel_ext_param_set] switch fps to 120
+[   36.711688] mtk_panel_ext_param_set:disp: mode fps=120
+[   36.711700] [DISP]mtk_dsi_set_mmclk_by_datarate_V1, data_rate =832, mmclk=338 pixclk_min=144, dual=0
+[   36.711752] [DISP][fps]: drm_invoke_fps_chg_callbacks,new_fps =120
+[   36.711763] [DISP]mtk_crtc_disp_mode_switch_begin--
+[   36.771552] regulator_vibrator vibr_enable(100) :vibr enable
+[   36.825695] regulator_vibrator vibr_disable(114) :vibr disable
+[   36.904769] [SCP] sensor id not in sensor freq table
+[   37.109593] [name:spm&][SPM] system_bus didn't enter MCUSYS off, MCUSYS cnt is no update
+[   37.109707] [name:spm&] Pending Wakeup Sources: USB suspend lock disp_crtc0_wakelock cmdq_0_pm_lock 
+[   37.285111] [wlan][2195]SCANLOG:(SCN INFO) [SCN:500:F2D] scnEventScanDone Version4!size of ScanDone476,ucCompleteChanCount[26],ucCurrentState7, u4ScanDurBcnCnt[90],Seq[2]
+[   37.285156] [wlan][2195]SCANLOG:(SCN INFO) [SCN:500:F2D] 39: f8c4f3da78ef7ca96b17d785f80da9ff34f730e98eabc87cb4f94999857ef8c4f3b0c0b0b48618a7a8e78ece4e5535497af17ea8ff747af17ea8ff757af17ea8ff76f427568c9c90f627569c9c907ca96b751b3ee865d45b9501c6e5acb962983a3baba5a6881455b92ef0993a3bab96a8fe2ec1f41fc56af427568c9c91f627569c9c91c4a4022ed4408e9f225abcd92ec1f41fc56b3ec1f41fc56b42c1f41fc56bf8c4f3da78f3b48618a7a8e8f80da9ff34f8e60da9ff34f81455b92ef09a2655b92ef09a2a55b92ef09a30e98eabc8807ca96b751b3a72f17ea8ff733a3bab96a8ff5cf9fd85b30d
+[   37.285161] [wlan][2195]scnFsmDumpScanDoneInfo:(SCN INFO) Country Code = IN, Detected_Channel_Num = 26
+[   37.285170] [wlan][2195]scnFsmDumpScanDoneInfo:(SCN INFO) Channel  :      1     2     3     4     5     6     7     8     9    10    11    12    13    36    40    44    48    52    56    60    64   149   153   157   161   165
+[   37.285179] [wlan][2195]scnFsmDumpScanDoneInfo:(SCN INFO) IdleTime :   3924  6102  4467  4749  5136  3943  5718   422  3065   566  5460  4615  5350  5165  5462  5152  5440  9902 10096 10105 10118  5519  4747  5452  5531  4721
+[   37.285188] [wlan][2195]scnFsmDumpScanDoneInfo:(SCN INFO) MdrdyCnt :     17    36    15     5    17    13    11     0    17    20    19     2     1    11     8    10     2     3     0     0     0     4     0     4    13     0
+[   37.285196] [wlan][2195]scnFsmDumpScanDoneInfo:(SCN INFO) BAndPCnt :      6     6     1     1     0     4     7     0     5    15    10     1     0     9     5     8     0     3     0     0     0     4     0     3     2     0
+[   37.285219] [wlan][2195]scnFsmSteps:(SCN STATE) [SCAN]TRANSITION: [SCANNING] -> [IDLE]
+[   37.285229] [wlan][2195]aisFsmRunEventScanDone:(AIS INFO) ScanDone 2, status(0) native req(2)
+[   37.285440] [wlan][2195]SCANLOG:(SCN INFO) [SCN:600:D2K] Total:22/39  Airtel home wifi; FTTH; Airtel_zafa_7700; Airtel_Ujjwal; www.excitel.com; QARIZMATIC; Airtel_Oreo; IOT5-M2-406880008; Edoras; Airtel_JPR; Airtel_rizw_1144; Sheikh_2.4; Redmi 12 5G; bella; Airtel_azim_7862; AirFiber-2025; Airtel_Afroz; Shashwat; Airtel home wifi_5G; Airtel_Ujjwal_5G; FTTH-5G; Airtel_Amaan bhatti;
+[   37.285750] [wlan][2195]SCANLOG:(SCN INFO) [SCN:600:D2K] 39: f8c4f3da78ef7ca96b17d785f80da9ff34f730e98eabc87cb4f94999857ef8c4f3b0c0b0b48618a7a8e78ece4e5535497af17ea8ff747af17ea8ff757af17ea8ff76f427568c9c90f627569c9c907ca96b751b3ee865d45b9501c6e5acb962983a3baba5a6881455b92ef0993a3bab96a8fe2ec1f41fc56af427568c9c91f627569c9c91c4a4022ed4408e9f225abcd92ec1f41fc56b3ec1f41fc56b42c1f41fc56bf8c4f3da78f3b48618a7a8e8f80da9ff34f8e60da9ff34f81455b92ef09a2655b92ef09a2a55b92ef09a30e98eabc8807ca96b751b3a72f17ea8ff733a3bab96a8ff5cf9fd85b30d
+[   37.285760] [wlan][2195]SCANLOG:(SCN INFO) [SCN:600:D2K] Call cfg80211_scan_done (aborted=0)
+[   37.285778] [wlan][2195]aisFsmSteps:(AIS STATE) [AIS0] TRANSITION: [SCAN] -> [IDLE]
+[   37.285782] [wlan][2195]aisFsmSteps:(AIS INFO) No req anymore
+[   37.285789] [wlan][2195]nicDeactivateNetworkEx:(RSN INFO) [BSS index]=0 OwnMac=da:32:19:34:03:af BSSID=00:00:00:00:00:00 BMCIndex = 5 NetType=0
+[   37.285798] [wlan][2195]asicFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x11] SEQ[102] SET[1] LEN[44]
+[   37.285810] [wlan][2195]asicFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x14] SEQ[103] SET[1] LEN[36]
+[   37.285865] [wlan][2195]kalPerMonUpdate:(SW4 INFO) <1000ms> Tput: 0(0.000mbps) [0:0:0:0][0:0:0:0][0:0:0:0][0:0:0:0] Pending:0/256 [0:0:0:0][0:0:0:0][0:0:0:0][0:0:0:0] Used:0/1536/512 [0][0][0][0][0] LQ[0:0:0] lv:0 th:5 fg:0x5 Mo:[0:0:0:0] TxDp[ST:BS:FO:QM:DP]:0:0:0:0:0
+[   37.285873] [wlan][2195]kalPerMonUpdate:(SW4 INFO) ndevdrp:[0:0:0:0][0:0:0:0][0:0:0:0] drv[RM,IL,RI,RT,RM,RW,RA,RB,DT,NS,IB,HS,LS,DD,ME,BD,NI,DR,TE,CE,DN,FE,DE,IE,TME]:164,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+[   37.293866] [wlan][2196]halSetFWOwn:(INIT INFO) FW OWN:1, IntSta:0x10080000
+[   37.300514] [wlan][2196]halSetDriverOwn:(INIT INFO) DRIVER OWN Done[5195 us]
+[   37.300555] [wlan][2195]qmHandleEventBssAbsencePresence:(QM INFO) NAF:B=0,A=0,F=0 used=0 [0][0][0][0][0]
+[   37.323476] [wlan][2196]halSetFWOwn:(INIT INFO) FW OWN:1, IntSta:0x10000002
+[   37.568321] type=1400 audit(1775802747.016:117): avc:  denied  { search } for  comm="CachedAppOptimi" name="hw" dev="proc" ino=4026533450 scontext=u:r:system_server:s0 tcontext=u:object_r:proc_hwconf:s0 tclass=dir permissive=0
+[   37.569761] type=1400 audit(1775802747.016:118): avc:  denied  { search } for  comm="CachedAppOptimi" name="config" dev="proc" ino=4026533444 scontext=u:r:system_server:s0 tcontext=u:object_r:proc_hwconf:s0 tclass=dir permissive=0
+[   37.571695] type=1400 audit(1775802747.020:119): avc:  denied  { search } for  comm="CachedAppOptimi" name="dma_heap" dev="proc" ino=4026534692 scontext=u:r:system_server:s0 tcontext=u:object_r:proc_dmaheap:s0 tclass=dir permissive=0
+[   37.705926] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   37.706163] mmi_charger_get_batt_status,bat_status=1
+[   37.711295] [force_get_tbat_internal] 475,475,0,117,0,29 r:0 0 1
+[   37.711311] mmi_get_tbat: bat_temp = 29, pre_bat_temp = 29, avg_bat_temp=29
+[   37.733479] get_charger_type online:2 type:4 usb_type:1
+[   37.733485] get_usb_type online:2 usb_type:1
+[   37.740365] Vbat=4347 vbats=4357 vbus:4712 ibus:907 I=86 T=29 uisoc:88 type:usb>usb pd:5 swchg_ibat:170 cv:4400000
+[   37.740375] get_charger_type online:2 type:4 usb_type:1
+[   37.740377] get_usb_type online:2 usb_type:1
+[   37.740381] mtk_charger_start_timer: alarm timer start:0, 47 714884386
+[   37.740617] [PE50]pe50_is_algo_ready soc(88) not in range(0~80)
+[   37.740628] _wlc_is_algo_ready state:WLC_HW_READY
+[   37.740630] wlc_hal_get_charger_type type:4
+[   37.751232] [mmi_charger_check_status]batt=4359 mV, 121 mA, 29 C, USB= 4712 mV
+[   37.751516] bq25980-charger 9-0065: bq25980_is_chg_enabled 0
+[   37.751592] [mmi_charger_check_status]FV 4400 mV, FCC 5400 mA
+[   37.751594] [mmi_charger_check_status]Step State = MAX
+[   37.751595] [mmi_charger_check_status]EFFECTIVE: FV = 4400000, CDIS = 0, FCC = 5400000, USBICL = 1500000, DEMO_DISCHARG = 0
+[   37.751596] [mmi_charger_check_status]adaptive charging:disable_ibat = 0, disable_ichg = 0, enable HZ = 0, charging disable = 0
+[   37.751599] get_charger_type online:2 type:4 usb_type:1
+[   37.758399] bq25980-charger 9-0065: bq25980_is_chg_enabled 0
+[   37.772182] tmp:29 (jeita:0 sm:0 cv:0 en:0) (sm:1) en:1 c:0 s:0 ov:0 sc:0 1 1 saf_cmd:-1 bat_mon:0 0
+[   37.772263] get_charger_type online:2 type:4 usb_type:1
+[   37.772266] get_usb_type online:2 usb_type:1
+[   37.772271] [charger_check_status] force disable power path false
+[   37.772272] yyatm_enabled:0 plugout_flag:0
+[   37.772275] chg_alg_set_current_limit
+[   37.772299] [PE50]pe50_is_algo_ready soc(88) not in range(0~80)
+[   37.772300] chg_alg_set_current_limit
+[   37.772303] chg_alg_set_current_limit
+[   37.772307] chg_alg_set_current_limit
+[   37.772310] _wlc_set_setting cv:4400000 icl:-1,-1 cc:2000000,-1, mmi_fcc:5400000, 6pin_en:0
+[   37.772313] _wlc_is_algo_ready state:WLC_HW_READY
+[   37.772314] wlc_hal_get_charger_type type:4
+[   37.772325] type-C:5 current:1500
+[   37.772328] m:3 chg1:-1,2000,1500,2000 chg2:-1,-1,0,0 dvchg1:-1 sc:5400000 -1 0 type:4:5 usb_unlimited:0 usbif:0 usbsm:0 aicl:-1 atm:0 bm:0 b:1
+[   37.772329] do_algorithm is_basic:1, active fast:0
+[   37.772571] [PE50]pe50_is_algo_ready soc(88) not in range(0~80)
+[   37.786888] Task-Turbo: Task-Turbo: task_turbo_feats is change to 15 successfully
+[   37.802109] mt6375-chg 11b20000.i2c:mt6375@34:chg: mt6375_dump_registers CC = 2000mA, AICR = 1500mA, MIVR = 4700mV, IEOC = 150mA, CV = 4400mV
+VBUS = 4712mV, IBUS = 907mA, VBAT = 4365mV, IBAT = 142mA, VSYS = 4368mV
+CHG_STAT = 0x04, CHG_STAT0 = 0xC1, CHG_STAT1 = 0x80, CHG_TOP1 = 0xB3, CHG_TOP2 = 0x43, CHG_EOC = 0x22
+[   37.803041] [sc]disable_charger: 0
+[   37.809854] [sc1]en:0 t:0,80000,23547,56453 t:3600,52853,-1,-1 c:115,2000 ibus:907 uisoc: 88,80 s:3000 ans:ignore
+[   37.817198] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   37.823699] _wlc_is_algo_running
+[   37.823716] mmi_charge_rate_check ICL:1500, aicl_lmt:-1, vbus: 4712, ibus: 907, Rp:1500, PD:5, Charger Detected: Normal
+[   37.823727] [mmi_get_battery_age]battery age is 10000
+[   37.823731] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   37.833399] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   37.848319] _wlc_is_algo_running
+[   37.848335] [mmi_check_power_watt] icl = 1500, aicl_lmt = -1, ibus = 907, power_type = 1, pd = 5
+[   37.848338] [mmi_check_power_watt] power_watt = 7W
+[   37.870782] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   37.871576] healthd: battery l=88 v=4355 t=29.0 h=2 st=2 c=1800 fc=5025700 cc=26 chg=u
+[   37.881932] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   38.374684] servicemanager: Caller(pid=5305,uid=10426,sid=u:r:untrusted_app:s0:c170,c257,c512,c768) Could not find android.hardware.graphics.allocator.IAllocator/default in the VINTF manifest. No alternative instances declared in VINTF.
+[   38.385811] servicemanager: Caller(pid=5305,uid=10426,sid=u:r:untrusted_app:s0:c170,c257,c512,c768) Could not find android.hardware.graphics.allocator.IAllocator/default in the VINTF manifest. No alternative instances declared in VINTF.
+[   38.695335] init: ReapLogP Persist PropSet [persist.vendor.mtk.volte.enable] = [1] at 38668, Done
+[   38.696603] init: ReapLogP Persist PropSet [persist.vendor.mtk.vilte.enable] = [0] at 38670, Done
+[   38.697741] init: ReapLogP Persist PropSet [persist.vendor.mtk.vonr.enable] = [0] at 38671, Done
+[   38.698900] init: ReapLogP Persist PropSet [persist.vendor.mtk.vinr.enable] = [0] at 38672, Done
+[   38.700816] init: ReapLogP Persist PropSet [persist.vendor.radio.volte_state] = [1] at 38674, Done
+[   39.105270] SELinux: avc:  denied  { find } for pid=1839 uid=1000 name=vendor.mediatek.hardware.lbs.ILbs/mtk_lppe_socket_wlan scontext=u:r:system_server:s0 tcontext=u:object_r:default_android_service:s0 tclass=service_manager permissive=0
+[   39.111550] SELinux: avc:  denied  { find } for pid=1839 uid=1000 name=vendor.mediatek.hardware.lbs.ILbs/mtk_lppe_socket_bt scontext=u:r:system_server:s0 tcontext=u:object_r:default_android_service:s0 tclass=service_manager permissive=0
+[   39.122593] SELinux: avc:  denied  { find } for pid=1839 uid=1000 name=vendor.mediatek.hardware.lbs.ILbs/mtk_agps2framework scontext=u:r:system_server:s0 tcontext=u:object_r:default_android_service:s0 tclass=service_manager permissive=0
+[   39.134169] SELinux: avc:  denied  { find } for pid=1839 uid=1000 name=vendor.mediatek.hardware.lbs.ILbs/mtk_lppe_socket_sensor scontext=u:r:system_server:s0 tcontext=u:object_r:default_android_service:s0 tclass=service_manager permissive=0
+[   39.153401] SELinux: avc:  denied  { find } for pid=1839 uid=1000 name=vendor.mediatek.hardware.lbs.ILbs/mtk_lppe_socket_network scontext=u:r:system_server:s0 tcontext=u:object_r:default_android_service:s0 tclass=service_manager permissive=0
+[   39.158532] init: ReapLogP Persist PropSet [persist.radio.is_vonr_enabled_0] = [false] at 39132, Done
+[   39.159253] SELinux: avc:  denied  { find } for pid=1839 uid=1000 name=vendor.mediatek.hardware.lbs.ILbs/mtk_lppe_socket_ipaddr scontext=u:r:system_server:s0 tcontext=u:object_r:default_android_service:s0 tclass=service_manager permissive=0
+[   39.164717] SELinux: avc:  denied  { find } for pid=1839 uid=1000 name=vendor.mediatek.hardware.lbs.ILbs/mtk_lppe_socket_lbs scontext=u:r:system_server:s0 tcontext=u:object_r:default_android_service:s0 tclass=service_manager permissive=0
+[   39.174996] init: ReapLogP Persist PropSet [persist.vendor.mtk.volte.enable] = [1] at 39149, Done
+[   39.175989] init: ReapLogP Persist PropSet [persist.vendor.mtk.vilte.enable] = [0] at 39150, Done
+[   39.177432] init: ReapLogP Persist PropSet [persist.vendor.mtk.vonr.enable] = [0] at 39151, Done
+[   39.178462] init: ReapLogP Persist PropSet [persist.vendor.mtk.vinr.enable] = [0] at 39152, Done
+[   39.180668] init: ReapLogP Persist PropSet [persist.vendor.radio.volte_state] = [1] at 39154, Done
+[   39.184428] [DISP]mtk_drm_crtc_mode_check++ from 0 to 1
+[   39.184503] [DISP]mtk_crtc_disp_mode_switch_begin++ from 0 to 1
+[   39.184513] [lcd_info][mtk_panel_ext_param_set] switch fps to 90
+[   39.184515] mtk_panel_ext_param_set:disp: mode fps=90
+[   39.184525] [lcd_info][mtk_panel_ext_param_set] switch fps to 90
+[   39.184528] mtk_panel_ext_param_set:disp: mode fps=90
+[   39.184543] [DISP]mtk_dsi_set_mmclk_by_datarate_V1, data_rate =832, mmclk=338 pixclk_min=144, dual=0
+[   39.184583] [DISP][fps]: drm_invoke_fps_chg_callbacks,new_fps =90
+[   39.184600] [DISP]mtk_crtc_disp_mode_switch_begin--
+[   39.207609] SELinux: avc:  denied  { find } for pid=1839 uid=1000 name=vendor.mediatek.hardware.lbs.ILbs/mtk_lppe_socket_agps scontext=u:r:system_server:s0 tcontext=u:object_r:default_android_service:s0 tclass=service_manager permissive=0
+[   39.260898] init: ReapLogP Persist PropSet [persist.vendor.mtk.volte.enable] = [1] at 39235, Done
+[   39.262433] init: ReapLogP Persist PropSet [persist.vendor.mtk.vilte.enable] = [0] at 39236, Done
+[   39.263456] init: ReapLogP Persist PropSet [persist.vendor.mtk.vonr.enable] = [0] at 39237, Done
+[   39.264646] init: ReapLogP Persist PropSet [persist.vendor.mtk.vinr.enable] = [0] at 39238, Done
+[   39.267295] [DISP]mtk_drm_crtc_mode_check++ from 1 to 2
+[   39.267378] [DISP]mtk_crtc_disp_mode_switch_begin++ from 1 to 2
+[   39.267389] [lcd_info][mtk_panel_ext_param_set] switch fps to 60
+[   39.267391] mtk_panel_ext_param_set:disp: mode fps=60
+[   39.267402] [lcd_info][mtk_panel_ext_param_set] switch fps to 60
+[   39.267404] mtk_panel_ext_param_set:disp: mode fps=60
+[   39.267421] [DISP]mtk_dsi_set_mmclk_by_datarate_V1, data_rate =832, mmclk=337 pixclk_min=144, dual=0
+[   39.267476] [DISP][fps]: drm_invoke_fps_chg_callbacks,new_fps =60
+[   39.267500] [DISP]mtk_crtc_disp_mode_switch_begin--
+[   39.268064] init: ReapLogP Persist PropSet [persist.vendor.radio.volte_state] = [1] at 39242, Done
+[   39.928653] init: ReapLogP Persist PropSet [persist.sys.gps.lpp] = [] at 39902, Done
+[   40.035625] init: ReapLogP Persist PropSet [persist.mtk.volte_handover_no_rtp0] = [1] at 40009, Done
+[   40.333685] servicemanager: Caller(pid=2411,uid=1001,sid=u:r:radio:s0) Could not find vendor.mediatek.hardware.mtkradioex.modem.IMtkRadioExModem/slot1 in the VINTF manifest. No alternative instances declared in VINTF.
+[   40.342869] servicemanager: Caller(pid=2411,uid=1001,sid=u:r:radio:s0) Could not find vendor.mediatek.hardware.mtkradioex.modem.IMtkRadioExModem/slot2 in the VINTF manifest. No alternative instances declared in VINTF.
+[   40.349538] servicemanager: Add service begin: name=capctrl,allowIsolated=0,dumpPriority=8
+[   40.349976] servicemanager: Add service successfully: capctrl
+[   40.382696] init: ReapLogP Persist PropSet [persist.radio.is_vonr_enabled_0] = [false] at 40356, Done
+[   40.385500] init: ReapLogP Persist PropSet [persist.vendor.mtk.volte.enable] = [1] at 40359, Done
+[   40.386901] init: ReapLogP Persist PropSet [persist.vendor.mtk.vilte.enable] = [0] at 40361, Done
+[   40.387781] init: ReapLogP Persist PropSet [persist.vendor.mtk.vonr.enable] = [0] at 40361, Done
+[   40.389103] init: ReapLogP Persist PropSet [persist.vendor.mtk.vinr.enable] = [0] at 40363, Done
+[   40.390325] init: ReapLogP Persist PropSet [persist.vendor.radio.volte_state] = [1] at 40364, Done
+[   40.400342] init: ReapLogP Persist PropSet [persist.vendor.mtk.volte.enable] = [1] at 40374, Done
+[   40.401195] init: ReapLogP Persist PropSet [persist.vendor.mtk.vilte.enable] = [0] at 40375, Done
+[   40.402595] init: ReapLogP Persist PropSet [persist.vendor.mtk.vonr.enable] = [0] at 40376, Done
+[   40.403438] init: ReapLogP Persist PropSet [persist.vendor.mtk.vinr.enable] = [0] at 40377, Done
+[   40.405030] init: ReapLogP Persist PropSet [persist.vendor.radio.volte_state] = [1] at 40379, Done
+[   40.609152] [DISP]mtk_drm_crtc_mode_check++ from 2 to 3
+[   40.609232] [DISP]mtk_crtc_disp_mode_switch_begin++ from 2 to 3
+[   40.609240] [lcd_info][mtk_panel_ext_param_set] switch fps to 30
+[   40.609242] mtk_panel_ext_param_set:disp: mode fps=30
+[   40.609251] [lcd_info][mtk_panel_ext_param_set] switch fps to 30
+[   40.609253] mtk_panel_ext_param_set:disp: mode fps=30
+[   40.609269] [DISP]mtk_dsi_set_mmclk_by_datarate_V1, data_rate =832, mmclk=338 pixclk_min=144, dual=0
+[   40.609308] [DISP][fps]: drm_invoke_fps_chg_callbacks,new_fps =30
+[   40.609340] [DISP]mtk_crtc_disp_mode_switch_begin--
+[   40.934075] binder: undelivered TRANSACTION_COMPLETE
+[   40.934094] binder: undelivered transaction 170400, process died.
+[   40.953590] [ccci1/dpmaif]net txq0-3(status=0xf)[2048]:2048-0-0(0x0), 2048-0-0(0x0), 2048-0-0(0x0), 2048-0-0(0x0)
+[   40.953606] [ccci1/dpmaif]Current txq pos: w/r/rel=(0,0,0)(0,0,0)(0,0,0)(0,0,0), tx_busy=0,0,0,0
+[   40.953645] [ccci1/cif]total cnt=4959;rxq0 isr_cnt=5;rxq1 isr_cnt=89;rxq2 isr_cnt=0;rxq3 isr_cnt=4;rxq4 isr_cnt=2963;rxq5 isr_cnt=1898;rxq6 isr_cnt=2;rxq7 isr_cnt=0;rxq8 isr_cnt=0;rxq9 isr_cnt=0;rxq10 isr_cnt=0;rxq11 isr_cnt=0;rxq12 isr_cnt=0;rxq13 isr_cnt=0;rxq14 isr_cnt=0;rxq15 isr_cnt=1;rxq16 isr_cnt=0;rxq17 isr_cnt=0;rxq18 isr_cnt=0;rxq19 isr_cnt=0;rxq20 isr_cnt=0;rxq21 isr_cnt=0;rxq22 isr_cnt=0;rxq23 isr_cnt=0;
+[   41.112314] [DISP]mtk_drm_crtc_mode_check++ from 3 to 2
+[   41.112395] [DISP]mtk_crtc_disp_mode_switch_begin++ from 3 to 2
+[   41.112404] [lcd_info][mtk_panel_ext_param_set] switch fps to 60
+[   41.112407] mtk_panel_ext_param_set:disp: mode fps=60
+[   41.112420] [DISP]mtk_dsi_set_mmclk_by_datarate_V1, data_rate =832, mmclk=337 pixclk_min=144, dual=0
+[   41.112426] [lcd_info][mtk_panel_ext_param_set] switch fps to 60
+[   41.112428] mtk_panel_ext_param_set:disp: mode fps=60
+[   41.112440] [DISP]mtk_dsi_set_mmclk_by_datarate_V1, data_rate =832, mmclk=337 pixclk_min=144, dual=0
+[   41.112480] [DISP][fps]: drm_invoke_fps_chg_callbacks,new_fps =60
+[   41.112499] [DISP]mtk_crtc_disp_mode_switch_begin--
+[   42.108646] servicemanager: Caller(pid=875,uid=1017,sid=u:r:keystore:s0) Found android.hardware.security.keymint.IRemotelyProvisionedComponent/default in device VINTF manifest.
+[   42.120896] servicemanager: Caller(pid=4871,uid=10406,sid=u:r:rkpdapp:s0:c150,c257,c512,c768) Found android.hardware.security.keymint.IRemotelyProvisionedComponent/default in device VINTF manifest.
+[   42.229592] [name:spm&][SPM] system_bus didn't enter MCUSYS off, cstate enter func ret = -1
+[   42.229689] [name:spm&] Pending Wakeup Sources: USB suspend lock disp_crtc0_wakelock cmdq_0_pm_lock 
+[   42.929635] [wlan][1503]SCANLOG:(SCN INFO) [SCN:100:K2D] Scan flags=0x8 [mac]addr=02:00:00:00:00:00 mask=03:00:00:00:00:00 n_ssids=1: n_channels=26: 1 2 3 4 5 6 7 8 9 10 11 12 13 36 40 44 48 52 56 60 64 149 153 157 161 165
+[   42.929648] [wlan][1503]mtk_cfg80211_scan:(REQ INFO) n_ssid=(1->0) n_channel(26==>26) wildcard=0x1 flag=0x8 random_mac=56:9f:ee:64:55:c6
+[   42.929764] [wlan][2195]aisFsmSteps:(AIS STATE) [AIS0] TRANSITION: [IDLE] -> [SCAN]
+[   42.929770] [wlan][2195]secPrivacySeekForBcEntry:(RSN INFO) [Wlan index] BSS#0 keyid#255 P=0 use WlanIndex#5 STAIdx=254 da:32:19:34:03:af (OpMode:0, NetworkType:0, CheckKeyId:0)
+[   42.929773] [wlan][2195]nicActivateNetworkEx:(RSN INFO) [BSS index]=0 OwnMac1=da:32:19:34:03:af BSSID=00:00:00:00:00:00 BMCIndex = 5 NetType=0
+[   42.929778] [wlan][2195]asicFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x11] SEQ[104] SET[1] LEN[44]
+[   42.929784] [wlan][2195]scanSetRequestChannel:(SCN INFO) channel num(26=>26) 00000000 00000000 00000022 22200000 00000000 00000001 11111110 00003FFE
+[   42.929865] [wlan][2195]scnFsmSteps:(SCN STATE) [SCAN]TRANSITION: [IDLE] -> [SCANNING]
+[   42.929877] [wlan][2195]SCANLOG:(SCN INFO) [SCN:200:D2F] ScanReqV2: ScanType=1,BSS=0,SSIDType=1,Num=0,Ext=0,ChannelType=4,Num=26,Ext=0,Seq=3,Ver=1,Dw=0,Min=0,Func=0x13,D=0,Mac=56:9f:ee:64:55:c6,BSSID=00:00:00:00:00:00,,Ch: 1 2 3 4 5 6 7 8 9 10 11 12 13 36 40 44 48 52 56 60 64 149 153 157 161 165
+[   42.929880] [wlan][2195]asicFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x03] SEQ[105] SET[1] LEN[1220]
+[   42.929905] [wlan][2195]kalPerMonUpdate:(SW4 INFO) <5644ms> Tput: 0(0.000mbps) [0:0:0:0][0:0:0:0][0:0:0:0][0:0:0:0] Pending:0/256 [0:0:0:0][0:0:0:0][0:0:0:0][0:0:0:0] Used:0/1536/512 [0][0][0][0][0] LQ[0:0:0] lv:0 th:5 fg:0x5 Mo:[0:0:0:0] TxDp[ST:BS:FO:QM:DP]:0:0:0:0:0
+[   42.929910] [wlan][2195]kalPerMonUpdate:(SW4 INFO) ndevdrp:[0:0:0:0][0:0:0:0][0:0:0:0] drv[RM,IL,RI,RT,RM,RW,RA,RB,DT,NS,IB,HS,LS,DD,ME,BD,NI,DR,TE,CE,DN,FE,DE,IE,TME]:167,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+[   42.932994] [wlan][2196]halSetDriverOwn:(INIT INFO) DRIVER OWN Done[3068 us]
+[   42.933022] [wlan][2196]kalDumpHifStats:(HAL INFO) I[221 0] T[105 105 103 / 0 0 0 0] R[0 / 174] T_R[0 0 0 2 0]  R_R[0 0] Tok[0/1536] Rfb[2102/2102] txreg[0] rxreg[170]
+[   42.961150] init: ReapLogP Persist PropSet [persist.sys.perftracer_jank_info] = [] at 42935, Done
+[   42.965631] type=1400 audit(1775802752.408:120): avc:  denied  { read } for  comm="moto.fg" name="u:object_r:surfaceflinger_display_prop:s0" dev="tmpfs" ino=346 scontext=u:r:system_server:s0 tcontext=u:object_r:surfaceflinger_display_prop:s0 tclass=file permissive=0
+[   43.938639] [wlan][2196]kalDumpHifStats:(HAL INFO) I[273 0] T[105 105 105 / 0 0 0 0] R[0 / 225] T_R[0 0 0 0 0]  R_R[0 0] Tok[0/1536] Rfb[2101/2102] txreg[0] rxreg[221]
+[   43.938763] [wlan][2195]kalPerMonUpdate:(SW4 INFO) <1009ms> Tput: 0(0.000mbps) [0:0:0:0][0:0:0:0][0:0:0:0][0:0:0:0] Pending:0/256 [0:0:0:0][0:0:0:0][0:0:0:0][0:0:0:0] Used:0/1536/512 [0][0][0][0][0] LQ[0:0:0] lv:0 th:5 fg:0x5 Mo:[0:0:0:0] TxDp[ST:BS:FO:QM:DP]:0:0:0:0:0
+[   43.938774] [wlan][2195]kalPerMonUpdate:(SW4 INFO) ndevdrp:[0:0:0:0][0:0:0:0][0:0:0:0] drv[RM,IL,RI,RT,RM,RW,RA,RB,DT,NS,IB,HS,LS,DD,ME,BD,NI,DR,TE,CE,DN,FE,DE,IE,TME]:218,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+[   44.024520] [ma_to_mw] 4364(mV) * 5500(mA) = 24002(mW)
+[   44.024525] [DLPT_final] 5500,88,88,5500
+[   44.506558] [DISP]mtk_drm_crtc_mode_check++ from 2 to 3
+[   44.506628] [DISP]mtk_crtc_disp_mode_switch_begin++ from 2 to 3
+[   44.506637] [lcd_info][mtk_panel_ext_param_set] switch fps to 30
+[   44.506639] mtk_panel_ext_param_set:disp: mode fps=30
+[   44.506647] [lcd_info][mtk_panel_ext_param_set] switch fps to 30
+[   44.506650] mtk_panel_ext_param_set:disp: mode fps=30
+[   44.506664] [DISP]mtk_dsi_set_mmclk_by_datarate_V1, data_rate =832, mmclk=338 pixclk_min=144, dual=0
+[   44.506693] [DISP][fps]: drm_invoke_fps_chg_callbacks,new_fps =30
+[   44.506712] [DISP]mtk_crtc_disp_mode_switch_begin--
+[   44.732600] [wlan][2195]SCANLOG:(SCN INFO) [SCN:500:F2D] scnEventScanDone Version4!size of ScanDone476,ucCompleteChanCount[26],ucCurrentState7, u4ScanDurBcnCnt[83],Seq[3]
+[   44.732648] [wlan][2195]SCANLOG:(SCN INFO) [SCN:500:F2D] 43: f8c4f3da78ef7ca96b17d7856c4f89b5f3cf30e98eabc87cf0edb8451089f8c4f3b0c0b0b4f94999857eb48618a7a8e78ece4e5535497af17ea8ff747af17ea8ff767af17ea8ff75aaa915093636f627569c9c90f427568c9c90e865d45b9501c6e5acb962981455b92ef0993a3bab96a8fe2ec1f41fc56ab81904deb2c93a3baba5a688f427568c9c91f627569c9c91c4a4022ed4408e9f225abcd9e865d45b95052ec1f41fc56b3ec1f41fc56b42c1f41fc56bf8c4f3da78f3f80da9ff34f8e60da9ff34f8b48618a7a8e81455b92ef09a2655b92ef09a2a55b92ef09a30e98eabc88072f17ea8ff733a3baba5a689f8c4f3b0c0b4
+[   44.732652] [wlan][2195]SCANLOG:(SCN INFO) [SCN:500:F2D] 5cf9fd85b30d5ef9fdc5b30d
+[   44.732656] [wlan][2195]scnFsmDumpScanDoneInfo:(SCN INFO) Country Code = IN, Detected_Channel_Num = 26
+[   44.732666] [wlan][2195]scnFsmDumpScanDoneInfo:(SCN INFO) Channel  :      1     2     3     4     5     6     7     8     9    10    11    12    13    36    40    44    48    52    56    60    64   149   153   157   161   165
+[   44.732675] [wlan][2195]scnFsmDumpScanDoneInfo:(SCN INFO) IdleTime :   4927  5611  3901  4363  5630   572  3940  5788  5459  4925  5111  4598  4620  5266  5368  5253  5491  5292 10103 10093 10104  5401  5605  5255  5385  4737
+[   44.732684] [wlan][2195]scnFsmDumpScanDoneInfo:(SCN INFO) MdrdyCnt :      8    30     7     0     3    14    15     2     9     5    20     2     0    10     7    10     3     5     0     0     0    10     6     9    14     0
+[   44.732692] [wlan][2195]scnFsmDumpScanDoneInfo:(SCN INFO) BAndPCnt :      3     4     4     0     3     2    11     1     4     0    13     1     0     7     6     6     0     5     0     0     0     2     0     5     6     0
+[   44.732717] [wlan][2195]scnFsmSteps:(SCN STATE) [SCAN]TRANSITION: [SCANNING] -> [IDLE]
+[   44.732727] [wlan][2195]aisFsmRunEventScanDone:(AIS INFO) ScanDone 3, status(0) native req(3)
+[   44.732934] [wlan][2195]SCANLOG:(SCN INFO) [SCN:600:D2K] Total:26/43  Airtel home wifi; FTTH; Airtel_mahe_8244; Airtel_Ujjwal; JioFiber-4G; QARIZMATIC; www.excitel.com; Airtel_Oreo; IOT5-M2-406880008; Edoras; Airtel_JPR; daniyaljio; Airtel_rizw_1144; Sheikh_2.4; Redmi 12 5G; Airtel_azim_7862; AirFiber-2025; Airtel_Afroz; Sabiha; bella; Shashwat; sheikh_5G; Airtel home wifi_5G; Airtel_zafa_7700; Airtel_Ujjwal_5G; Airtel_Amaan bhatti;
+[   44.733209] [wlan][2195]SCANLOG:(SCN INFO) [SCN:600:D2K] 43: f8c4f3da78ef7ca96b17d7856c4f89b5f3cf30e98eabc87cf0edb8451089f8c4f3b0c0b0b4f94999857eb48618a7a8e78ece4e5535497af17ea8ff747af17ea8ff767af17ea8ff75aaa915093636f627569c9c90f427568c9c90e865d45b9501c6e5acb962981455b92ef0993a3bab96a8fe2ec1f41fc56ab81904deb2c93a3baba5a688f427568c9c91f627569c9c91c4a4022ed4408e9f225abcd9e865d45b95052ec1f41fc56b3ec1f41fc56b42c1f41fc56bf8c4f3da78f3f80da9ff34f8e60da9ff34f8b48618a7a8e81455b92ef09a2655b92ef09a2a55b92ef09a30e98eabc88072f17ea8ff733a3baba5a689f8c4f3b0c0b4
+[   44.733217] [wlan][2195]SCANLOG:(SCN INFO) [SCN:600:D2K] 5cf9fd85b30d5ef9fdc5b30d
+[   44.733221] [wlan][2195]SCANLOG:(SCN INFO) [SCN:600:D2K] Call cfg80211_scan_done (aborted=0)
+[   44.733243] [wlan][2195]aisFsmSteps:(AIS STATE) [AIS0] TRANSITION: [SCAN] -> [IDLE]
+[   44.733247] [wlan][2195]aisFsmSteps:(AIS INFO) No req anymore
+[   44.733255] [wlan][2195]nicDeactivateNetworkEx:(RSN INFO) [BSS index]=0 OwnMac=da:32:19:34:03:af BSSID=00:00:00:00:00:00 BMCIndex = 5 NetType=0
+[   44.733265] [wlan][2195]asicFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x11] SEQ[106] SET[1] LEN[44]
+[   44.733276] [wlan][2195]asicFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x14] SEQ[107] SET[1] LEN[36]
+[   44.740412] [wlan][2196]halSetFWOwn:(INIT INFO) FW OWN:1, IntSta:0x10080000
+[   44.747003] [wlan][2196]halSetDriverOwn:(INIT INFO) DRIVER OWN Done[5062 us]
+[   44.747041] [wlan][2195]qmHandleEventBssAbsencePresence:(QM INFO) NAF:B=0,A=0,F=0 used=0 [0][0][0][0][0]
+[   44.770095] [wlan][2196]halSetFWOwn:(INIT INFO) FW OWN:1, IntSta:0x10000002
+[   44.789573] timesync host boottime 44764067079
+[   45.114513] servicemanager: Caller(pid=2422,uid=1000,sid=u:r:system_app:s0) Could not find android.hardware.dumpstate.IDumpstateDevice/default in the VINTF manifest. No alternative instances declared in VINTF.
+[   45.486465] servicemanager: Caller(pid=875,uid=1017,sid=u:r:keystore:s0) Found android.hardware.security.keymint.IRemotelyProvisionedComponent/default in device VINTF manifest.
+[   45.508212] servicemanager: Caller(pid=4871,uid=10406,sid=u:r:rkpdapp:s0:c150,c257,c512,c768) Found android.hardware.security.keymint.IRemotelyProvisionedComponent/default in device VINTF manifest.
+[   45.516921] [wdk-c] cpu=7 o_k=7 lbit=0x80 cbit=0xff,7f,7,1,516707308,ff,0,0,0,0,[45516912954,15000000] 17
+[   45.516924] [wdk-c] cpu=6 o_k=6 lbit=0xc0 cbit=0xff,3f,7,1,516707308,ff,0,0,0,0,[45516919185,14999994] 17
+[   45.516946] [wdk-c] cpu=0 o_k=0 lbit=0xc1 cbit=0xff,3e,7,1,516707308,ff,0,0,0,0,[45516939185,14999974] 17
+[   45.516952] [wdk-c] cpu=3 o_k=3 lbit=0xc9 cbit=0xff,36,7,1,516707308,ff,0,0,0,0,[45516945877,14999967] 17
+[   45.516959] [wdk-c] cpu=5 o_k=5 lbit=0xe9 cbit=0xff,16,7,1,516707308,ff,0,0,0,0,[45516952339,14999961] 17
+[   45.516966] [wdk-c] cpu=1 o_k=1 lbit=0xeb cbit=0xff,14,7,1,516707308,ff,0,0,0,0,[45516958877,14999954] 17
+[   45.516972] [wdk-c] cpu=2 o_k=2 lbit=0xef cbit=0xff,10,7,1,516707308,ff,0,0,0,0,[45516965339,14999948] 17
+[   45.516984] [thread:166] 2026-04-10 06:32:34.971165 UTC;android time 2026-04-10 06:32:34.971165
+[   45.516987] [wdk-k] cpu=4 o_k=4 lbit=0xff cbit=0xff,0,7,1,516707308,ff,0,0,0,0,[45516971800,14999941] 17
+[   46.735219] MTK_FG: waiting FG_DAEMON_CMD_NOTIFY_DAEMON from kernel...[0x0][220607]
+[   46.735249] MTK_FG: wake up function 0x20000 cmd:0 0,last:0x20000
+[   46.735274] MTK_BH: get_daemon_log_level 8
+[   46.735282] MTK_BH: [fg_iavg_handler]
+[   46.736559] MTK_BH: [fg_compensate_battery_voltage_from_low]size:100 ori_v=32500 I:-820
+[   46.736571] MTK_BH: [fg_compensate_battery_voltage_from_low]find high=99,[10100][9998]
+[   46.736578] MTK_BH: [fg_compensate_battery_voltage_from_low] h_percent=[10100,9998],high=99,fg_volt_withIR=33049 > ori_voltage=32500
+[   46.736583] MTK_BH: [fg_compensate_battery_voltage_from_low]fg_volt=32766,99,IR=-163,orig_v:32500,+IR=32603,percent=10010,
+[   46.736588] MTK_BH: [FGADC] OCV_to_DOD: voltage:32766 dod:10009 highidx:99
+[   46.737613] MTK_BH: [fg_loading_factor_compensate] loading_factor_1 10000 loading_factor_2 10000 T_NEW 29 I_avg -820 I_avg_valid 1
+[   46.737623] MTK_BH: [fg_loading_factor_compensate] loading_1_en 0 loading_2_en 2 is_bat_charging 0 batterypseudo1_iq -9
+[   46.737627] MTK_BH: [fg_loading_factor_compensate][LF1] q_max_L_current 0 q_max_H_current 10000 I_avg -820
+[   46.737632] MTK_BH: [fg_loading_factor_compensate][LF1] qmax_t_0ma_h 49996 qmax_t_Nma_h 49870 Qmax_T_I_avg [49996] loading_factor1 10000
+[   46.737636] MTK_BH: [fg_loading_factor_compensate][LF2] multi_temp_gauge0:1,pick_qmax_sys_vol:32500,32500,33500 I_avg -820
+[   46.737641] MTK_BH: [fg_loading_factor_compensate][LF2] shutdown_ocv 32766 shutdown_ocv_dod [10009] loading_factor2 10000
+[   46.737645] MTK_BH: [fg_loading_factor_compensate] temp_1 10000 temp_2 10009 batterypseudo1_iq_1 0 batterypseudo1_iq_2 -9 pseudo1_iq_offset 0 batterypseudo1_iq -9 0 -9
+[   46.746225] MTK_BH: [battery_update] nvram ready!!
+[   46.746351] MTK_BH: read success [8]
+[   46.746365] MTK_BH: update_car_tune_value #Ready# kpoc:0 nvram:0 3 ret:0 cache:0 0 car_tune:0 2048
+[   46.746394] MTK_BH: [FGADC_info] tmp:29 29 29 rdnafg:0 vc:0 disable_fg:0:0 fg_v:1487:8513:42662:-38:50257:1494:8506:8506 low_temp:0 0 0
+[   46.746413] MTK_BH: [FGADC_intr_end][FG_INTR_IAVG]soc:8506 fg_c_soc:8350 fg_v_soc:8506 ui_soc:8751 vc_diff:-156 vc_mode 0 VBAT 43590 T:[29 V 29 C 29 avg:29] D0_C 8299 D0_V 8513 CAR[c:259 v:-38] Q:[50257 50257 50257 50257] aging 10000 bat_cycle 26 Trk[0(0):0:0] UI[0:0] Chr[1:0:0] pseudo1 -9  DC_ratio 100 dodinit[9][0],ag[0 0 0 0 0 0]I:-820
+[   46.748083] ///PD dbg info 127 2
+[   46.748087] <   46.748>TCPC-TCPC:bat_update_work_func battery update soc = 88
+[   46.748088] <   46.748>TCPC-TCPC:bat_update_work_func Battery Charging
+[   46.748268] [fr] FG_DAEMON_CMD_SET_BATTERY_CAPACITY = 50257 10000 10000 10000 50257 8751 8506 0 0 0 RM:42748
+[   46.748288] [fr] FG_DAEMON_CMD_SET_BATTERY_CAPACITY = 50257 10000 10000 10000 50257 8751 8506 0 0 0 RM:42748
+[   46.749772] rtc_field_read: cmd[1], get rg[0x56, 0xff , 0] = 0xd8
+[   46.750785] rtc_spare_field_write: cmd[1], set rg[0x56, 0xff , 0] = 0xd8
+[   46.767010] MTK_BH: [fg_error_calibration2]sd_g1_vbat_en:0 1 8751 43700
+[   46.767026] MTK_BH: [fg_error_calibration2] intr_no 0x20000 shutdown_cond 0 soc 8506 ui_soc 8751 vbat 43700 now_time 0 gauge1_time 0 is_charger_exist 1 soc_100 0 keep_100 0 keep_100_minsoc 9000,full_tracking[en:0 count:0,car:259 lt_thr:0 multiply 6]
+[   46.767040] MTK_BH: [fg_enable_fg_bat_int2_lt] lt_en:1 lt_gap:50
+[   46.769561] MTK_BH: [fg_enable_fg_bat_int2_ht] ht_en:1 ht_gap:302
+[   46.769572] MTK_BH: [fg_set_int2] C_Remain_Int 7005 D_Remain_Int 42743 full_tracking_enable 0 pre_low_tracking_enable 0 low_tracking_enable 0
+[   46.769577] MTK_BH: [fg_set_int2] fg_bat_int2_lt_en 1 fg_bat_int2_ht_en 1
+[   46.771561] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   46.771689] healthd: battery l=88 v=4368 t=29.0 h=2 st=2 c=91500 fc=5025700 cc=26 chg=u
+[   46.776081] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   46.856850] servicemanager: Caller(pid=875,uid=1017,sid=u:r:keystore:s0) Found android.hardware.security.keymint.IRemotelyProvisionedComponent/default in device VINTF manifest.
+[   46.876088] binder_alloc: 2621: binder_alloc_buf size 1056768 failed, no address space
+[   46.876093] binder_alloc: allocated: 13656 (num: 6 largest: 9816), free: 1026728 (num: 4 largest: 1025960)
+[   46.876097] binder: 3470:4113 transaction failed 29201/-28, size 1056768-0 line 3347
+[   46.904401] servicemanager: Caller(pid=4871,uid=10406,sid=u:r:rkpdapp:s0:c150,c257,c512,c768) Found android.hardware.security.keymint.IRemotelyProvisionedComponent/default in device VINTF manifest.
+[   47.021230] [wdtk] kick watchdog
+[   47.132749] Task-Turbo: Task-Turbo: task_turbo_feats is change to 0 successfully
+[   47.138820] servicemanager: Caller(pid=875,uid=1017,sid=u:r:keystore:s0) Found android.hardware.security.keymint.IRemotelyProvisionedComponent/default in device VINTF manifest.
+[   47.262229] servicemanager: Caller(pid=4871,uid=10406,sid=u:r:rkpdapp:s0:c150,c257,c512,c768) Found android.hardware.security.keymint.IRemotelyProvisionedComponent/default in device VINTF manifest.
+[   47.349558] [name:spm&][SPM] system_bus didn't enter MCUSYS off, cstate enter func ret = -1
+[   47.349656] [name:spm&] Pending Wakeup Sources: USB suspend lock disp_crtc0_wakelock cmdq_0_pm_lock 
+[   47.399448] servicemanager: Caller(pid=875,uid=1017,sid=u:r:keystore:s0) Found android.hardware.security.keymint.IRemotelyProvisionedComponent/default in device VINTF manifest.
+[   47.478150] servicemanager: Caller(pid=4871,uid=10406,sid=u:r:rkpdapp:s0:c150,c257,c512,c768) Found android.hardware.security.keymint.IRemotelyProvisionedComponent/default in device VINTF manifest.
+[   47.740427] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   47.740623] mmi_charger_get_batt_status,bat_status=1
+[   47.745460] [force_get_tbat_internal] 475,475,1,52,0,29 r:0 0 1
+[   47.745466] mmi_get_tbat: bat_temp = 29, pre_bat_temp = 29, avg_bat_temp=29
+[   47.766753] get_charger_type online:2 type:4 usb_type:1
+[   47.766759] get_usb_type online:2 usb_type:1
+[   47.773633] Vbat=4368 vbats=4378 vbus:4712 ibus:907 I=133 T=29 uisoc:88 type:usb>usb pd:5 swchg_ibat:222 cv:4400000
+[   47.773640] get_charger_type online:2 type:4 usb_type:1
+[   47.773641] get_usb_type online:2 usb_type:1
+[   47.773645] mtk_charger_start_timer: alarm timer start:0, 57 748148925
+[   47.773870] [PE50]pe50_is_algo_ready soc(88) not in range(0~80)
+[   47.773883] _wlc_is_algo_ready state:WLC_HW_READY
+[   47.773884] wlc_hal_get_charger_type type:4
+[   47.784483] [mmi_charger_check_status]batt=4364 mV, 134 mA, 29 C, USB= 4712 mV
+[   47.784769] bq25980-charger 9-0065: bq25980_is_chg_enabled 0
+[   47.784849] [mmi_charger_check_status]FV 4400 mV, FCC 5400 mA
+[   47.784851] [mmi_charger_check_status]Step State = MAX
+[   47.784852] [mmi_charger_check_status]EFFECTIVE: FV = 4400000, CDIS = 0, FCC = 5400000, USBICL = 1500000, DEMO_DISCHARG = 0
+[   47.784854] [mmi_charger_check_status]adaptive charging:disable_ibat = 0, disable_ichg = 0, enable HZ = 0, charging disable = 0
+[   47.784856] get_charger_type online:2 type:4 usb_type:1
+[   47.789980] bq25980-charger 9-0065: bq25980_is_chg_enabled 0
+[   47.803735] tmp:29 (jeita:0 sm:0 cv:0 en:0) (sm:1) en:1 c:0 s:0 ov:0 sc:0 1 1 saf_cmd:-1 bat_mon:0 0
+[   47.803815] get_charger_type online:2 type:4 usb_type:1
+[   47.803818] get_usb_type online:2 usb_type:1
+[   47.803823] [charger_check_status] force disable power path false
+[   47.803825] yyatm_enabled:0 plugout_flag:0
+[   47.803827] chg_alg_set_current_limit
+[   47.803839] [PE50]pe50_is_algo_ready soc(88) not in range(0~80)
+[   47.803841] chg_alg_set_current_limit
+[   47.803844] chg_alg_set_current_limit
+[   47.803848] chg_alg_set_current_limit
+[   47.803852] _wlc_set_setting cv:4400000 icl:-1,-1 cc:2000000,-1, mmi_fcc:5400000, 6pin_en:0
+[   47.803854] _wlc_is_algo_ready state:WLC_HW_READY
+[   47.803856] wlc_hal_get_charger_type type:4
+[   47.803860] type-C:5 current:1500
+[   47.803864] m:3 chg1:-1,2000,1500,2000 chg2:-1,-1,0,0 dvchg1:-1 sc:5400000 -1 0 type:4:5 usb_unlimited:0 usbif:0 usbsm:0 aicl:-1 atm:0 bm:0 b:1
+[   47.803865] do_algorithm is_basic:1, active fast:0
+[   47.804088] [PE50]pe50_is_algo_ready soc(88) not in range(0~80)
+[   47.834172] mt6375-chg 11b20000.i2c:mt6375@34:chg: mt6375_dump_registers CC = 2000mA, AICR = 1500mA, MIVR = 4700mV, IEOC = 150mA, CV = 4400mV
+VBUS = 4712mV, IBUS = 907mA, VBAT = 4373mV, IBAT = 167mA, VSYS = 4377mV
+CHG_STAT = 0x04, CHG_STAT0 = 0xC1, CHG_STAT1 = 0x80, CHG_TOP1 = 0xB3, CHG_TOP2 = 0x43, CHG_EOC = 0x22
+[   47.834975] [sc]disable_charger: 0
+[   47.841841] [sc1]en:0 t:0,80000,23557,56443 t:3600,52843,-1,-1 c:144,2000 ibus:907 uisoc: 88,80 s:3000 ans:ignore
+[   47.848700] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   47.855660] _wlc_is_algo_running
+[   47.855668] mmi_charge_rate_check ICL:1500, aicl_lmt:-1, vbus: 4712, ibus: 907, Rp:1500, PD:5, Charger Detected: Normal
+[   47.855678] [mmi_get_battery_age]battery age is 10000
+[   47.855682] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   47.861725] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   47.873711] _wlc_is_algo_running
+[   47.873718] [mmi_check_power_watt] icl = 1500, aicl_lmt = -1, ibus = 907, power_type = 1, pd = 5
+[   47.873719] [mmi_check_power_watt] power_watt = 7W
+[   47.890530] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   47.890660] healthd: battery l=88 v=4356 t=29.0 h=2 st=2 c=131800 fc=5025700 cc=26 chg=u
+[   47.895394] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   49.727599] binder: undelivered transaction 218944, process died.
+[   49.752466] binder: undelivered TRANSACTION_COMPLETE
+[   49.752484] binder: undelivered transaction 218726, process died.
+[   49.753174] binder: undelivered transaction 218728, process died.
+[   49.984873] binder: undelivered TRANSACTION_COMPLETE
+[   49.984890] binder: undelivered transaction 220899, process died.
+[   50.568602] init: ReapLogP Persist PropSet [persist.desktop.activity_wireless_media] = [false] at 50542, Done
+[   51.189585] [ccci1/dpmaif]net txq0-3(status=0xf)[2048]:2048-0-0(0x0), 2048-0-0(0x0), 2048-0-0(0x0), 2048-0-0(0x0)
+[   51.189604] [ccci1/dpmaif]Current txq pos: w/r/rel=(0,0,0)(0,0,0)(0,0,0)(0,0,0), tx_busy=0,0,0,0
+[   51.189727] [ccci1/cif]total cnt=5005;rxq0 isr_cnt=5;rxq1 isr_cnt=89;rxq2 isr_cnt=0;rxq3 isr_cnt=4;rxq4 isr_cnt=2968;rxq5 isr_cnt=1939;rxq6 isr_cnt=2;rxq7 isr_cnt=0;rxq8 isr_cnt=0;rxq9 isr_cnt=0;rxq10 isr_cnt=0;rxq11 isr_cnt=0;rxq12 isr_cnt=0;rxq13 isr_cnt=0;rxq14 isr_cnt=0;rxq15 isr_cnt=1;rxq16 isr_cnt=0;rxq17 isr_cnt=0;rxq18 isr_cnt=0;rxq19 isr_cnt=0;rxq20 isr_cnt=0;rxq21 isr_cnt=0;rxq22 isr_cnt=0;rxq23 isr_cnt=0;
+[   51.386019] init: processing action (sys.bootbroadcast_completed=*) from (/vendor/etc/init/hw/init.mmi.tcmd.rc:229)
+[   52.477607] [name:spm&][SPM] system_bus didn't enter MCUSYS off, MCUSYS cnt is no update
+[   52.477735] [name:spm&] Pending Wakeup Sources: USB suspend lock disp_crtc0_wakelock cmdq_0_pm_lock 
+[   55.029871] timesync host boottime 55004356310
+[   57.605672] [name:spm&][SPM] system_bus wake up by  R12_SYSTIMER, timer_out = 164, r13 = 0x80007ec0, debug_flag = 0x10000000 0x3, r12 = 0x40000, r12_ext = 0x0, raw_sta = 0x0 0x0 0x0, idle_sta = 0x0, req_sta =  0x0 0x1f000000 0x234 0x2020018 0x7000 0xe001f000 0x0, cg_check_sta =0x234, isr = 0x0, rt_req_sta0 = 0x0 rt_req_sta1 = 0x0 rt_req_sta2 = 0xffffffff rt_req_sta3 = 0xffffffff dram_sw_con_3 = 0x0, raw_ext_sta = 0x208a55, wake_misc = 0x180030, pcm_flag = 0x90067 0x400000 0x10067 0x10067, req = 0x6360636,  clk_settle = 0x60fe, 
+[   57.605827] [name:spm&] Pending Wakeup Sources: USB suspend lock disp_crtc0_wakelock cmdq_0_pm_lock 
+[   57.774081] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   57.774660] mmi_charger_get_batt_status,bat_status=1
+[   57.779606] [force_get_tbat_internal] 473,473,1,671,0,29 r:0 0 1
+[   57.779621] mmi_get_tbat: bat_temp = 29, pre_bat_temp = 29, avg_bat_temp=29
+[   57.803379] get_charger_type online:2 type:4 usb_type:1
+[   57.803400] get_usb_type online:2 usb_type:1
+[   57.810326] Vbat=4409 vbats=4421 vbus:4712 ibus:810 I=670 T=29 uisoc:88 type:usb>usb pd:5 swchg_ibat:705 cv:4400000
+[   57.810350] get_charger_type online:2 type:4 usb_type:1
+[   57.810361] get_usb_type online:2 usb_type:1
+[   57.810376] mtk_charger_start_timer: alarm timer start:0, 67 784873849
+[   57.811168] [PE50]pe50_is_algo_ready soc(88) not in range(0~80)
+[   57.811211] _wlc_is_algo_ready state:WLC_HW_READY
+[   57.811222] wlc_hal_get_charger_type type:4
+[   57.822045] [mmi_charger_check_status]batt=4409 mV, 675 mA, 29 C, USB= 4731 mV
+[   57.822062] [C:mmi_find_temp_zone]: temp zone switch 5 -> 6
+[   57.822080] get_charger_type online:2 type:4 usb_type:1
+[   57.822087] [mmi_charger_check_dcp_ffc_status] ffc_state:7, charge stage:0, uisoc:88, chg_type:4
+[   57.822111] [mmi_charger_check_dcp_ffc_status] no ffc session, restore input cur:2000000
+[   57.822123] [mmi_charger_check_status]FV 4500 mV, FCC 4200 mA
+[   57.822128] [mmi_charger_check_status]Step State = MAX
+[   57.822135] [mmi_charger_check_status]EFFECTIVE: FV = 4500000, CDIS = 0, FCC = 4200000, USBICL = 1500000, DEMO_DISCHARG = 0
+[   57.822143] [mmi_charger_check_status]adaptive charging:disable_ibat = 0, disable_ichg = 0, enable HZ = 0, charging disable = 0
+[   57.822150] get_charger_type online:2 type:4 usb_type:1
+[   57.829789] bq25980-charger 9-0065: bq25980_is_chg_enabled 0
+[   57.842028] tmp:29 (jeita:0 sm:0 cv:0 en:0) (sm:1) en:1 c:0 s:0 ov:0 sc:0 1 1 saf_cmd:-1 bat_mon:0 0
+[   57.842220] get_charger_type online:2 type:4 usb_type:1
+[   57.842236] get_usb_type online:2 usb_type:1
+[   57.842255] [charger_check_status] force disable power path false
+[   57.842264] yyatm_enabled:0 plugout_flag:0
+[   57.842274] chg_alg_set_current_limit
+[   57.842292] [PE50]pe50_set_current_limit ic = -1, cv = 4500, mmi_fcc = 4200, therm_fcc = 2000
+[   57.842447] [PE50]pe50_is_algo_ready soc(88) not in range(0~80)
+[   57.842457] chg_alg_set_current_limit
+[   57.842476] [PE50]pe50_algo_threadfn state = STOP
+[   57.842483] chg_alg_set_current_limit
+[   57.842496] [PE50]pe50_algo_threadfn PE5.0 STOP
+[   57.842506] chg_alg_set_current_limit
+[   57.842524] _wlc_set_setting cv:4500000 icl:-1,-1 cc:2000000,-1, mmi_fcc:4200000, 6pin_en:0
+[   57.842539] _wlc_is_algo_ready state:WLC_HW_READY
+[   57.842549] wlc_hal_get_charger_type type:4
+[   57.842566] type-C:5 current:1500
+[   57.842594] m:3 chg1:-1,2000,1500,2000 chg2:-1,-1,0,0 dvchg1:-1 sc:4200000 -1 0 type:4:5 usb_unlimited:0 usbif:0 usbsm:0 aicl:-1 atm:0 bm:0 b:1
+[   57.842604] do_algorithm is_basic:1, active fast:0
+[   57.843196] [PE50]pe50_is_algo_ready soc(88) not in range(0~80)
+[   57.878756] mt6375-chg 11b20000.i2c:mt6375@34:chg: mt6375_dump_registers CC = 2000mA, AICR = 1500mA, MIVR = 4700mV, IEOC = 150mA, CV = 4500mV
+VBUS = 4712mV, IBUS = 910mA, VBAT = 4410mV, IBAT = 775mA, VSYS = 4438mV
+CHG_STAT = 0x04, CHG_STAT0 = 0xC1, CHG_STAT1 = 0x80, CHG_TOP1 = 0xB3, CHG_TOP2 = 0x43, CHG_EOC = 0x22
+[   57.880361] [sc]disable_charger: 0
+[   57.886079] [sc1]en:0 t:0,80000,23567,56433 t:3600,52833,-1,-1 c:736,2000 ibus:907 uisoc: 88,80 s:3000 ans:ignore
+[   57.893327] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   57.900858] _wlc_is_algo_running
+[   57.900882] mmi_charge_rate_check ICL:1500, aicl_lmt:-1, vbus: 4712, ibus: 910, Rp:1500, PD:5, Charger Detected: Normal
+[   57.900910] [mmi_get_battery_age]battery age is 10000
+[   57.900926] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   57.908316] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   57.926293] _wlc_is_algo_running
+[   57.926328] [mmi_check_power_watt] icl = 1500, aicl_lmt = -1, ibus = 907, power_type = 1, pd = 5
+[   57.926336] [mmi_check_power_watt] power_watt = 7W
+[   57.946595] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   57.947569] healthd: battery l=88 v=4414 t=29.0 h=2 st=2 c=737300 fc=5025700 cc=26 chg=u
+[   57.955707] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   58.567791] [DISP]mtk_drm_crtc_mode_check++ from 3 to 2
+[   58.567943] [DISP]mtk_crtc_disp_mode_switch_begin++ from 3 to 2
+[   58.567963] [lcd_info][mtk_panel_ext_param_set] switch fps to 60
+[   58.567971] mtk_panel_ext_param_set:disp: mode fps=60
+[   58.568001] [DISP]mtk_dsi_set_mmclk_by_datarate_V1, data_rate =832, mmclk=337 pixclk_min=144, dual=0
+[   58.568018] [lcd_info][mtk_panel_ext_param_set] switch fps to 60
+[   58.568027] mtk_panel_ext_param_set:disp: mode fps=60
+[   58.568059] [DISP]mtk_dsi_set_mmclk_by_datarate_V1, data_rate =832, mmclk=337 pixclk_min=144, dual=0
+[   58.568199] [DISP][fps]: drm_invoke_fps_chg_callbacks,new_fps =60
+[   58.568291] [DISP]mtk_crtc_disp_mode_switch_begin--
+[   59.274713] [DISP]mtk_drm_crtc_mode_check++ from 2 to 3
+[   59.274814] [DISP]mtk_crtc_disp_mode_switch_begin++ from 2 to 3
+[   59.274825] [lcd_info][mtk_panel_ext_param_set] switch fps to 30
+[   59.274828] mtk_panel_ext_param_set:disp: mode fps=30
+[   59.274839] [lcd_info][mtk_panel_ext_param_set] switch fps to 30
+[   59.274841] mtk_panel_ext_param_set:disp: mode fps=30
+[   59.274860] [DISP]mtk_dsi_set_mmclk_by_datarate_V1, data_rate =832, mmclk=338 pixclk_min=144, dual=0
+[   59.274941] [DISP][fps]: drm_invoke_fps_chg_callbacks,new_fps =30
+[   59.274990] [DISP]mtk_crtc_disp_mode_switch_begin--
+[   59.751850] Task-Turbo: Task-Turbo: task_turbo_feats is change to 15 successfully
+[   59.772693] [DISP]mtk_drm_crtc_mode_check++ from 3 to 2
+[   59.772780] [DISP]mtk_crtc_disp_mode_switch_begin++ from 3 to 2
+[   59.772790] [lcd_info][mtk_panel_ext_param_set] switch fps to 60
+[   59.772796] mtk_panel_ext_param_set:disp: mode fps=60
+[   59.772811] [DISP]mtk_dsi_set_mmclk_by_datarate_V1, data_rate =832, mmclk=337 pixclk_min=144, dual=0
+[   59.772817] [lcd_info][mtk_panel_ext_param_set] switch fps to 60
+[   59.772819] mtk_panel_ext_param_set:disp: mode fps=60
+[   59.772832] [DISP]mtk_dsi_set_mmclk_by_datarate_V1, data_rate =832, mmclk=337 pixclk_min=144, dual=0
+[   59.772894] [DISP][fps]: drm_invoke_fps_chg_callbacks,new_fps =60
+[   59.772935] [DISP]mtk_crtc_disp_mode_switch_begin--
+[   59.813804] SELinux: avc:  denied  { find } for pid=5305 uid=10426 name=mot_security scontext=u:r:untrusted_app:s0:c170,c257,c512,c768 tcontext=u:object_r:mot_system_service:s0 tclass=service_manager permissive=0
+[   60.517008] [wdk-c] cpu=6 o_k=6 lbit=0x40 cbit=0xff,bf,7,1,516707308,ff,0,0,0,0,[60517001374,15000000] 17
+[   60.517095] [wdk-c] cpu=0 o_k=0 lbit=0x41 cbit=0xff,be,7,1,516707308,ff,0,0,0,0,[60517079221,14999923] 17
+[   60.517099] [wdk-c] cpu=2 o_k=2 lbit=0x45 cbit=0xff,ba,7,1,516707308,ff,0,0,0,0,[60517090836,14999911] 17
+[   60.517105] [wdk-c] cpu=1 o_k=1 lbit=0x47 cbit=0xff,b8,7,1,516707308,ff,0,0,0,0,[60517097913,14999903] 17
+[   60.517111] [wdk-c] cpu=4 o_k=4 lbit=0x57 cbit=0xff,a8,7,1,516707308,ff,0,0,0,0,[60517104374,14999897] 17
+[   60.517117] [wdk-c] cpu=5 o_k=5 lbit=0x77 cbit=0xff,88,7,1,516707308,ff,0,0,0,0,[60517110836,14999890] 17
+[   60.517121] [wdk-c] cpu=7 o_k=7 lbit=0xf7 cbit=0xff,8,7,1,516707308,ff,0,0,0,0,[60517116990,14999884] 17
+[   60.517133] [thread:165] 2026-04-10 06:32:49.971315 UTC;android time 2026-04-10 06:32:49.971315
+[   60.517137] [wdk-k] cpu=3 o_k=3 lbit=0xff cbit=0xff,0,7,1,516707308,ff,0,0,0,0,[60517121605,14999879] 17
+[   61.429641] [ccci1/dpmaif]net txq0-3(status=0xf)[2048]:2048-0-0(0x0), 2048-0-0(0x0), 2048-0-0(0x0), 2048-0-0(0x0)
+[   61.429648] [ccci1/dpmaif]Current txq pos: w/r/rel=(0,0,0)(0,0,0)(0,0,0)(0,0,0), tx_busy=0,0,0,0
+[   61.429692] [ccci1/cif]total cnt=5088;rxq0 isr_cnt=5;rxq1 isr_cnt=89;rxq2 isr_cnt=0;rxq3 isr_cnt=4;rxq4 isr_cnt=2988;rxq5 isr_cnt=2003;rxq6 isr_cnt=2;rxq7 isr_cnt=0;rxq8 isr_cnt=0;rxq9 isr_cnt=0;rxq10 isr_cnt=0;rxq11 isr_cnt=0;rxq12 isr_cnt=0;rxq13 isr_cnt=0;rxq14 isr_cnt=0;rxq15 isr_cnt=1;rxq16 isr_cnt=0;rxq17 isr_cnt=0;rxq18 isr_cnt=0;rxq19 isr_cnt=0;rxq20 isr_cnt=0;rxq21 isr_cnt=0;rxq22 isr_cnt=0;rxq23 isr_cnt=0;
+[   62.522358] [wdtk] kick watchdog
+[   62.602314] [DISP]mtk_drm_crtc_mode_check++ from 2 to 1
+[   62.602382] [DISP]mtk_crtc_disp_mode_switch_begin++ from 2 to 1
+[   62.602389] [lcd_info][mtk_panel_ext_param_set] switch fps to 90
+[   62.602391] mtk_panel_ext_param_set:disp: mode fps=90
+[   62.602403] [DISP]mtk_dsi_set_mmclk_by_datarate_V1, data_rate =832, mmclk=338 pixclk_min=144, dual=0
+[   62.602409] [lcd_info][mtk_panel_ext_param_set] switch fps to 90
+[   62.602412] mtk_panel_ext_param_set:disp: mode fps=90
+[   62.602423] [DISP]mtk_dsi_set_mmclk_by_datarate_V1, data_rate =832, mmclk=338 pixclk_min=144, dual=0
+[   62.602476] [DISP][fps]: drm_invoke_fps_chg_callbacks,new_fps =90
+[   62.602506] [DISP]mtk_crtc_disp_mode_switch_begin--
+[   62.709551] [name:spm&][SPM] system_bus didn't enter MCUSYS off, cstate enter func ret = -1
+[   62.709665] [name:spm&] Pending Wakeup Sources: USB suspend lock disp_crtc0_wakelock cmdq_0_pm_lock 
+[   62.755371] Task-Turbo: Task-Turbo: task_turbo_feats is change to 0 successfully
+[   63.712229] psy_charger_set_property: prop:30 3000000
+[   63.712343] psy_charger_set_property: prop:37 -1
+[   63.712356] psy_charger_set_property: prop:8 1
+[   63.712368] chr limit state 4, chr 3000000, input -1, vbus 1
+[   63.712416] mtk-charger-cooling charger-cooler: charger-cooler: set lv = 4 done
+[   63.712522] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   63.712545] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   63.713167] mmi_charger_get_batt_status,bat_status=1
+[   63.713428] cps_wls_notify_cur_state state:4 ccl:1200000uA
+[   63.713459] wlc_tcd_set_cur_state cur state = 4, config state = 4, cur limt = 1200000
+[   63.715759] [fg_sw_bat_cycle_accu]drop diff_car
+[   63.724304] [fg_sw_bat_cycle_accu]car[o:243 n:260],diff_car:17,ncar[o:25 n:25 hw:-8462] thr 50257
+[   63.728770] mtk_battery_external_power_changed event, name:battery online:1, status:1, EOC:0, cur_chr_type:1 old:1, vbat0:[o:0 n:0]
+[   63.729378] ///PD dbg info 127 2
+[   63.729391] <   63.729>TCPC-TCPC:bat_update_work_func battery update soc = 88
+[   63.729399] <   63.729>TCPC-TCPC:bat_update_work_func Battery Charging
+[   63.745206] get_charger_type online:2 type:4 usb_type:1
+[   63.745229] get_usb_type online:2 usb_type:1
+[   63.749706] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   63.750653] healthd: battery l=88 v=4406 t=29.0 h=2 st=2 c=735400 fc=5025700 cc=26 chg=u
+[   63.753092] power_supply mtk-master-charger: driver failed to report `input_power_limit' property: -22
+[   63.758531] Vbat=4416 vbats=4423 vbus:4712 ibus:910 I=579 T=29 uisoc:88 type:usb>usb pd:5 swchg_ibat:657 cv:4500000
+[   63.758561] get_charger_type online:2 type:4 usb_type:1
+[   63.758573] get_usb_type online:2 usb_type:1
+[   63.758591] mtk_charger_start_timer: alarm timer start:1, 73 733087772
+[   63.765683] [PE50]pe50_is_algo_ready soc(88) not in range(0~80)
+[   63.765732] _wlc_is_algo_ready state:WLC_HW_READY
+[   63.765743] wlc_hal_get_charger_type type:4
+[   63.766636] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   63.779023] [mmi_charger_check_status]batt=4417 mV, 659 mA, 29 C, USB= 4712 mV
+[   63.779064] get_charger_type online:2 type:4 usb_type:1
+[   63.779075] [mmi_charger_check_dcp_ffc_status] ffc_state:7, charge stage:0, uisoc:88, chg_type:4
+[   63.779107] [mmi_charger_check_dcp_ffc_status] no ffc session, restore input cur:2000000
+[   63.779127] [mmi_charger_check_status]FV 4500 mV, FCC 4200 mA
+[   63.779136] [mmi_charger_check_status]Step State = MAX
+[   63.779147] [mmi_charger_check_status]EFFECTIVE: FV = 4500000, CDIS = 0, FCC = 4200000, USBICL = 1500000, DEMO_DISCHARG = 0
+[   63.779159] [mmi_charger_check_status]adaptive charging:disable_ibat = 0, disable_ichg = 0, enable HZ = 0, charging disable = 0
+[   63.779170] get_charger_type online:2 type:4 usb_type:1
+[   63.786913] bq25980-charger 9-0065: bq25980_is_chg_enabled 0
+[   63.801396] tmp:29 (jeita:0 sm:0 cv:0 en:0) (sm:1) en:1 c:0 s:0 ov:0 sc:0 1 1 saf_cmd:-1 bat_mon:0 0
+[   63.801635] get_charger_type online:2 type:4 usb_type:1
+[   63.801652] get_usb_type online:2 usb_type:1
+[   63.801727] [charger_check_status] force disable power path false
+[   63.801735] yyatm_enabled:0 plugout_flag:0
+[   63.801745] chg_alg_set_current_limit
+[   63.801762] [PE50]pe50_set_current_limit ic = -1, cv = 4500, mmi_fcc = 4200, therm_fcc = 3000
+[   63.801914] [PE50]pe50_is_algo_ready soc(88) not in range(0~80)
+[   63.801924] chg_alg_set_current_limit
+[   63.801936] chg_alg_set_current_limit
+[   63.801958] chg_alg_set_current_limit
+[   63.801975] _wlc_set_setting cv:4500000 icl:-1,-1 cc:2000000,-1, mmi_fcc:4200000, 6pin_en:0
+[   63.801988] _wlc_is_algo_ready state:WLC_HW_READY
+[   63.801994] wlc_hal_get_charger_type type:4
+[   63.802005] type-C:5 current:1500
+[   63.802021] m:3 chg1:-1,3000,1500,3000 chg2:-1,-1,0,0 dvchg1:-1 sc:4200000 -1 0 type:4:5 usb_unlimited:0 usbif:0 usbsm:0 aicl:-1 atm:0 bm:0 b:1
+[   63.802025] do_algorithm is_basic:1, active fast:0
+[   63.802043] [PE50]pe50_algo_threadfn state = STOP
+[   63.802053] [PE50]pe50_algo_threadfn PE5.0 STOP
+[   63.802485] [PE50]pe50_is_algo_ready soc(88) not in range(0~80)
+[   63.838881] mt6375-chg 11b20000.i2c:mt6375@34:chg: mt6375_dump_registers CC = 3000mA, AICR = 1500mA, MIVR = 4700mV, IEOC = 150mA, CV = 4500mV
+VBUS = 4712mV, IBUS = 910mA, VBAT = 4422mV, IBAT = 682mA, VSYS = 4436mV
+CHG_STAT = 0x04, CHG_STAT0 = 0xC1, CHG_STAT1 = 0x80, CHG_TOP1 = 0xB3, CHG_TOP2 = 0x43, CHG_EOC = 0x22
+[   63.840508] [sc]disable_charger: 0
+[   63.847775] [sc1]en:0 t:0,80000,23573,56427 t:3600,52827,-1,-1 c:700,2000 ibus:910 uisoc: 88,80 s:3000 ans:ignore
+[   63.854121] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   63.862265] _wlc_is_algo_running
+[   63.862307] mmi_charge_rate_check ICL:1500, aicl_lmt:-1, vbus: 4712, ibus: 910, Rp:1500, PD:5, Charger Detected: Normal
+[   63.862344] [mmi_get_battery_age]battery age is 10000
+[   63.862363] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   63.869961] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   63.884810] _wlc_is_algo_running
+[   63.884844] [mmi_check_power_watt] icl = 1500, aicl_lmt = -1, ibus = 910, power_type = 1, pd = 5
+[   63.884852] [mmi_check_power_watt] power_watt = 7W
+[   63.903232] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   63.904100] healthd: battery l=88 v=4406 t=29.0 h=2 st=2 c=651200 fc=5025700 cc=26 chg=u
+[   63.914861] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   64.183541] [DISP]mtk_drm_crtc_mode_check++ from 1 to 2
+[   64.183640] [DISP]mtk_crtc_disp_mode_switch_begin++ from 1 to 2
+[   64.183652] [lcd_info][mtk_panel_ext_param_set] switch fps to 60
+[   64.183655] mtk_panel_ext_param_set:disp: mode fps=60
+[   64.183667] [lcd_info][mtk_panel_ext_param_set] switch fps to 60
+[   64.183670] mtk_panel_ext_param_set:disp: mode fps=60
+[   64.183688] [DISP]mtk_dsi_set_mmclk_by_datarate_V1, data_rate =832, mmclk=337 pixclk_min=144, dual=0
+[   64.183763] [DISP][fps]: drm_invoke_fps_chg_callbacks,new_fps =60
+[   64.183804] [DISP]mtk_crtc_disp_mode_switch_begin--
+[   64.761992] [ma_to_mw] 4412(mV) * 5500(mA) = 24266(mW)
+[   64.762012] [DLPT_final] 5500,88,88,5500
+[   65.269759] timesync host boottime 65244250541
+[   66.415020] [DISP]mtk_drm_crtc_mode_check++ from 2 to 3
+[   66.415130] [DISP]mtk_crtc_disp_mode_switch_begin++ from 2 to 3
+[   66.415144] [lcd_info][mtk_panel_ext_param_set] switch fps to 30
+[   66.415149] mtk_panel_ext_param_set:disp: mode fps=30
+[   66.415163] [lcd_info][mtk_panel_ext_param_set] switch fps to 30
+[   66.415168] mtk_panel_ext_param_set:disp: mode fps=30
+[   66.415192] [DISP]mtk_dsi_set_mmclk_by_datarate_V1, data_rate =832, mmclk=338 pixclk_min=144, dual=0
+[   66.415285] [DISP][fps]: drm_invoke_fps_chg_callbacks,new_fps =30
+[   66.415346] [DISP]mtk_crtc_disp_mode_switch_begin--
+[   67.619512] init: Untracked pid 7583 exited with status 0
+[   67.619578] init: Untracked pid 7583 did not have an associated service entry and will not be reaped
+[   67.673582] [DISP]mtk_drm_crtc_mode_check++ from 3 to 2
+[   67.673695] [DISP]mtk_crtc_disp_mode_switch_begin++ from 3 to 2
+[   67.673706] [lcd_info][mtk_panel_ext_param_set] switch fps to 60
+[   67.673709] mtk_panel_ext_param_set:disp: mode fps=60
+[   67.673726] [DISP]mtk_dsi_set_mmclk_by_datarate_V1, data_rate =832, mmclk=337 pixclk_min=144, dual=0
+[   67.673733] [lcd_info][mtk_panel_ext_param_set] switch fps to 60
+[   67.673735] mtk_panel_ext_param_set:disp: mode fps=60
+[   67.673749] [DISP]mtk_dsi_set_mmclk_by_datarate_V1, data_rate =832, mmclk=337 pixclk_min=144, dual=0
+[   67.673842] [DISP][fps]: drm_invoke_fps_chg_callbacks,new_fps =60
+[   67.673884] [DISP]mtk_crtc_disp_mode_switch_begin--
+[   67.829695] [name:spm&][SPM] system_bus wake up by  R12_SYSTIMER, timer_out = 696, r13 = 0x80007fdc, debug_flag = 0x10000000 0x3, r12 = 0x40000, r12_ext = 0x0, raw_sta = 0x0 0x0 0x0, idle_sta = 0x0, req_sta =  0x0 0x1f000000 0x234 0xd6160c18 0x701f 0x1d000 0x0, cg_check_sta =0x234, isr = 0x0, rt_req_sta0 = 0x0 rt_req_sta1 = 0x0 rt_req_sta2 = 0xffffffff rt_req_sta3 = 0xffffffff dram_sw_con_3 = 0x0, raw_ext_sta = 0x208a55, wake_misc = 0x180030, pcm_flag = 0x90067 0x400000 0x10067 0x10067, req = 0x6360636,  clk_settle = 0x60fe, 
+[   67.829838] [name:spm&] Pending Wakeup Sources: USB suspend lock disp_crtc0_wakelock cmdq_0_pm_lock 
+[   68.475289] [DISP]mtk_drm_crtc_mode_check++ from 2 to 3
+[   68.475377] [DISP]mtk_crtc_disp_mode_switch_begin++ from 2 to 3
+[   68.475387] [lcd_info][mtk_panel_ext_param_set] switch fps to 30
+[   68.475390] mtk_panel_ext_param_set:disp: mode fps=30
+[   68.475400] [lcd_info][mtk_panel_ext_param_set] switch fps to 30
+[   68.475403] mtk_panel_ext_param_set:disp: mode fps=30
+[   68.475420] [DISP]mtk_dsi_set_mmclk_by_datarate_V1, data_rate =832, mmclk=338 pixclk_min=144, dual=0
+[   68.475493] [DISP][fps]: drm_invoke_fps_chg_callbacks,new_fps =30
+[   68.475534] [DISP]mtk_crtc_disp_mode_switch_begin--
+[   69.601373] [force_get_tbat_internal] 473,473,1,504,0,29 r:0 0 1
+[   69.601388] mmi_get_tbat: bat_temp = 29, pre_bat_temp = 29, avg_bat_temp=29
+[   69.601904] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   69.602313] healthd: battery l=88 v=4406 t=29.0 h=2 st=2 c=559000 fc=5025700 cc=26 chg=u
+[   69.608051] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   69.720092] psy_charger_set_property: prop:30 4000000
+[   69.720154] psy_charger_set_property: prop:37 -1
+[   69.720159] psy_charger_set_property: prop:8 1
+[   69.720163] chr limit state 3, chr 4000000, input -1, vbus 1
+[   69.720189] mtk-charger-cooling charger-cooler: charger-cooler: set lv = 3 done
+[   69.720249] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   69.720268] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   69.720695] cps_wls_notify_cur_state state:3 ccl:1500000uA
+[   69.720709] wlc_tcd_set_cur_state cur state = 3, config state = 3, cur limt = 1500000
+[   69.720978] mmi_charger_get_batt_status,bat_status=1
+[   69.722245] [fg_sw_bat_cycle_accu]drop diff_car
+[   69.727147] [fg_sw_bat_cycle_accu]car[o:260 n:270],diff_car:10,ncar[o:25 n:25 hw:-8462] thr 50257
+[   69.728970] mtk_battery_external_power_changed event, name:battery online:1, status:1, EOC:0, cur_chr_type:1 old:1, vbat0:[o:0 n:0]
+[   69.729294] ///PD dbg info 127 2
+[   69.729300] <   69.729>TCPC-TCPC:bat_update_work_func battery update soc = 88
+[   69.729303] <   69.729>TCPC-TCPC:bat_update_work_func Battery Charging
+[   69.737911] power_supply mtk-master-charger: driver failed to report `input_power_limit' property: -22
+[   69.747461] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   69.747812] healthd: battery l=88 v=4402 t=29.0 h=2 st=2 c=584700 fc=5025700 cc=26 chg=u
+[   69.754156] get_charger_type online:2 type:4 usb_type:1
+[   69.754170] get_usb_type online:2 usb_type:1
+[   69.755735] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   69.761926] Vbat=4406 vbats=4416 vbus:4712 ibus:910 I=338 T=29 uisoc:88 type:usb>usb pd:5 swchg_ibat:627 cv:4500000
+[   69.761943] get_charger_type online:2 type:4 usb_type:1
+[   69.761949] get_usb_type online:2 usb_type:1
+[   69.761960] mtk_charger_start_timer: alarm timer start:1, 79 736459465
+[   69.762608] [PE50]pe50_is_algo_ready soc(88) not in range(0~80)
+[   69.762643] _wlc_is_algo_ready state:WLC_HW_READY
+[   69.762648] wlc_hal_get_charger_type type:4
+[   69.773796] [mmi_charger_check_status]batt=4409 mV, 544 mA, 29 C, USB= 4712 mV
+[   69.773819] get_charger_type online:2 type:4 usb_type:1
+[   69.773824] [mmi_charger_check_dcp_ffc_status] ffc_state:7, charge stage:0, uisoc:88, chg_type:4
+[   69.773842] [mmi_charger_check_dcp_ffc_status] no ffc session, restore input cur:2000000
+[   69.773850] [mmi_charger_check_status]FV 4500 mV, FCC 4200 mA
+[   69.773853] [mmi_charger_check_status]Step State = MAX
+[   69.773858] [mmi_charger_check_status]EFFECTIVE: FV = 4500000, CDIS = 0, FCC = 4200000, USBICL = 1500000, DEMO_DISCHARG = 0
+[   69.773861] [mmi_charger_check_status]adaptive charging:disable_ibat = 0, disable_ichg = 0, enable HZ = 0, charging disable = 0
+[   69.773865] get_charger_type online:2 type:4 usb_type:1
+[   69.781337] bq25980-charger 9-0065: bq25980_is_chg_enabled 0
+[   69.794145] tmp:29 (jeita:0 sm:0 cv:0 en:0) (sm:1) en:1 c:0 s:0 ov:0 sc:0 1 1 saf_cmd:-1 bat_mon:0 0
+[   69.794320] get_charger_type online:2 type:4 usb_type:1
+[   69.794335] get_usb_type online:2 usb_type:1
+[   69.794354] [charger_check_status] force disable power path false
+[   69.794362] yyatm_enabled:0 plugout_flag:0
+[   69.794373] chg_alg_set_current_limit
+[   69.794390] [PE50]pe50_set_current_limit ic = -1, cv = 4500, mmi_fcc = 4200, therm_fcc = 4000
+[   69.794533] [PE50]pe50_is_algo_ready soc(88) not in range(0~80)
+[   69.794543] chg_alg_set_current_limit
+[   69.794556] chg_alg_set_current_limit
+[   69.794578] chg_alg_set_current_limit
+[   69.794595] _wlc_set_setting cv:4500000 icl:-1,-1 cc:3000000,-1, mmi_fcc:4200000, 6pin_en:0
+[   69.794610] _wlc_is_algo_ready state:WLC_HW_READY
+[   69.794620] wlc_hal_get_charger_type type:4
+[   69.794636] type-C:5 current:1500
+[   69.794664] m:3 chg1:-1,4000,1500,4000 chg2:-1,-1,0,0 dvchg1:-1 sc:4200000 -1 0 type:4:5 usb_unlimited:0 usbif:0 usbsm:0 aicl:-1 atm:0 bm:0 b:1
+[   69.794674] do_algorithm is_basic:1, active fast:0
+[   69.794699] [PE50]pe50_algo_threadfn state = STOP
+[   69.794713] [PE50]pe50_algo_threadfn PE5.0 STOP
+[   69.795192] [PE50]pe50_is_algo_ready soc(88) not in range(0~80)
+[   69.830607] mt6375-chg 11b20000.i2c:mt6375@34:chg: mt6375_dump_registers CC = 3150mA, AICR = 1500mA, MIVR = 4700mV, IEOC = 150mA, CV = 4500mV
+VBUS = 4712mV, IBUS = 910mA, VBAT = 4416mV, IBAT = 657mA, VSYS = 4432mV
+CHG_STAT = 0x04, CHG_STAT0 = 0xC1, CHG_STAT1 = 0x80, CHG_TOP1 = 0xB3, CHG_TOP2 = 0x43, CHG_EOC = 0x22
+[   69.832173] [sc]disable_charger: 0
+[   69.838099] [sc1]en:0 t:0,80000,23579,56421 t:3600,52821,-1,-1 c:630,2000 ibus:910 uisoc: 88,80 s:3000 ans:ignore
+[   69.845779] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   69.853324] _wlc_is_algo_running
+[   69.853351] mmi_charge_rate_check ICL:1500, aicl_lmt:-1, vbus: 4712, ibus: 910, Rp:1500, PD:5, Charger Detected: Normal
+[   69.853377] [mmi_get_battery_age]battery age is 10000
+[   69.853389] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   69.860541] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   69.873047] _wlc_is_algo_running
+[   69.873081] [mmi_check_power_watt] icl = 1500, aicl_lmt = -1, ibus = 910, power_type = 1, pd = 5
+[   69.873090] [mmi_check_power_watt] power_watt = 7W
+[   69.889640] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   69.890516] healthd: battery l=88 v=4400 t=29.0 h=2 st=2 c=548700 fc=5025700 cc=26 chg=u
+[   69.899789] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   70.034078] [DISP]mtk_drm_crtc_mode_check++ from 3 to 2
+[   70.034231] [DISP]mtk_crtc_disp_mode_switch_begin++ from 3 to 2
+[   70.034251] [lcd_info][mtk_panel_ext_param_set] switch fps to 60
+[   70.034259] mtk_panel_ext_param_set:disp: mode fps=60
+[   70.034290] [DISP]mtk_dsi_set_mmclk_by_datarate_V1, data_rate =832, mmclk=337 pixclk_min=144, dual=0
+[   70.034307] [lcd_info][mtk_panel_ext_param_set] switch fps to 60
+[   70.034315] mtk_panel_ext_param_set:disp: mode fps=60
+[   70.034348] [DISP]mtk_dsi_set_mmclk_by_datarate_V1, data_rate =832, mmclk=337 pixclk_min=144, dual=0
+[   70.034489] [DISP][fps]: drm_invoke_fps_chg_callbacks,new_fps =60
+[   70.034576] [DISP]mtk_crtc_disp_mode_switch_begin--
+[   71.171323] car[273,510,8,561,209] tmp:29 soc:85 uisoc:88 vbat:4403 ibat:5285 baton:473 algo:0 gm3:0 0 0 0 0,boot:0
+[   71.173672] [fg_drv_update_daemon]ui_ht_gap:302 ui_lt_gap:50 sw_iavg:14040 3530 1 nafg_m:6 0 0
+[   71.173756] battery_update_routine
+[   71.173935] MTK_FG: waiting FG_DAEMON_CMD_NOTIFY_DAEMON from kernel...[0x0][220607]
+[   71.173974] MTK_FG: wake up function 0x2000000 cmd:1 0,last:0x20000
+[   71.173998] MTK_BH: get_daemon_log_level 8
+[   71.174022] MTK_BH: get_kernel_cmd:1 0
+[   71.188524] MTK_BH: [FGADC] mah_to_OCV: mah:49984 voltage:33966 highidx:98
+[   71.188588] MTK_BH: [FGTEST]car:4998 mah_ocv:3396 ocv_v:42655 vbat:4406 cur1:0 cur2:0 iavg:353, qmax_v:5025 c:5025,ui:8751 c:8350 v:8506 dif:-156 car_v -38 temp:29 charge:1
+[   71.190257] MTK_BH: {FGADC}soc:8506 fg_c_soc:8350 fg_v_soc:8506 ui_soc:8751 vc_diff:-156 vc_mode 0 VBAT 44020 T:[29 V 29 C 29] D0_C 8299 D0_V 8513 CAR[c:259 v:-38]Q:[50257 50257 50257 50257] aging 10000 bat_cycle 26 Trk[0:0:0] UI[0:0] Chr[1:0:0] pseudo1 -9 DC_ratio 100 vboot:33120 33120 dod_init[9]
+[   71.669868] [ccci1/dpmaif]net txq0-3(status=0xf)[2048]:2048-0-0(0x0), 2048-0-0(0x0), 2048-0-0(0x0), 2048-0-0(0x0)
+[   71.669900] [ccci1/dpmaif]Current txq pos: w/r/rel=(0,0,0)(0,0,0)(0,0,0)(0,0,0), tx_busy=0,0,0,0
+[   71.669909] [ccci1/cif]total cnt=5124;rxq0 isr_cnt=5;rxq1 isr_cnt=89;rxq2 isr_cnt=0;rxq3 isr_cnt=4;rxq4 isr_cnt=2993;rxq5 isr_cnt=2034;rxq6 isr_cnt=2;rxq7 isr_cnt=0;rxq8 isr_cnt=0;rxq9 isr_cnt=0;rxq10 isr_cnt=0;rxq11 isr_cnt=0;rxq12 isr_cnt=0;rxq13 isr_cnt=0;rxq14 isr_cnt=0;rxq15 isr_cnt=1;rxq16 isr_cnt=0;rxq17 isr_cnt=0;rxq18 isr_cnt=0;rxq19 isr_cnt=0;rxq20 isr_cnt=0;rxq21 isr_cnt=0;rxq22 isr_cnt=0;rxq23 isr_cnt=0;
+[   73.073663] [name:spm&][SPM] system_pll wake up by  R12_SYSTIMER, timer_out = 288, r13 = 0x80007ec0, debug_flag = 0x10000000 0x3, r12 = 0x40000, r12_ext = 0x0, raw_sta = 0x0 0x0 0x0, idle_sta = 0x0, req_sta =  0x0 0x1f000000 0x3f4 0x2020018 0x7000 0x1f000 0x0, cg_check_sta =0x3f4, isr = 0x0, rt_req_sta0 = 0x0 rt_req_sta1 = 0x0 rt_req_sta2 = 0xffffffff rt_req_sta3 = 0xffffffff dram_sw_con_3 = 0x0, raw_ext_sta = 0x208a55, wake_misc = 0x180030, pcm_flag = 0x90067 0x400000 0x10067 0x10067, req = 0x6360636,  clk_settle = 0x60fe, 
+[   73.073887] [name:spm&] Pending Wakeup Sources: USB suspend lock disp_crtc0_wakelock cmdq_0_pm_lock 
+[   73.214951] [DISP]mtk_drm_crtc_mode_check++ from 2 to 3
+[   73.215117] [DISP]mtk_crtc_disp_mode_switch_begin++ from 2 to 3
+[   73.215136] [lcd_info][mtk_panel_ext_param_set] switch fps to 30
+[   73.215143] mtk_panel_ext_param_set:disp: mode fps=30
+[   73.215162] [lcd_info][mtk_panel_ext_param_set] switch fps to 30
+[   73.215168] mtk_panel_ext_param_set:disp: mode fps=30
+[   73.215198] [DISP]mtk_dsi_set_mmclk_by_datarate_V1, data_rate =832, mmclk=338 pixclk_min=144, dual=0
+[   73.215305] [DISP][fps]: drm_invoke_fps_chg_callbacks,new_fps =30
+[   73.215364] [DISP]mtk_crtc_disp_mode_switch_begin--
+[   74.792241] [STP-PSM] [I]stp_psm_disable_by_tx_rx_density: STP speed rx:0 tx:4803
+[   74.792267] [STP-PSM] [I]stp_psm_disable_by_tx_rx_density: Low speed,Enable monitor
+[   75.025961] MTK_FG: waiting FG_DAEMON_CMD_NOTIFY_DAEMON from kernel...[0x0][220607]
+[   75.026069] MTK_FG: wake up function 0x20000 cmd:0 0,last:0x2000000
+[   75.026201] MTK_BH: get_daemon_log_level 8
+[   75.026277] MTK_BH: [fg_iavg_handler]
+[   75.030408] MTK_BH: [fg_loading_factor_compensate] loading_factor_1 10000 loading_factor_2 10000 T_NEW 29 I_avg 4321 I_avg_valid 1
+[   75.030492] MTK_BH: [fg_loading_factor_compensate] loading_1_en 0 loading_2_en 2 is_bat_charging 1 batterypseudo1_iq 0
+[   75.030568] MTK_BH: [fg_loading_factor_compensate][LF1] q_max_L_current 0 q_max_H_current 10000 I_avg 4321
+[   75.030645] MTK_BH: [fg_loading_factor_compensate][LF1] qmax_t_0ma_h 49996 qmax_t_Nma_h 49870 Qmax_T_I_avg [0] loading_factor1 10000
+[   75.030721] MTK_BH: [fg_loading_factor_compensate][LF2] multi_temp_gauge0:1,pick_qmax_sys_vol:32500,32500,33500 I_avg 4321
+[   75.030794] MTK_BH: [fg_loading_factor_compensate][LF2] shutdown_ocv 0 shutdown_ocv_dod [0] loading_factor2 10000
+[   75.030872] MTK_BH: [fg_loading_factor_compensate] temp_1 10000 temp_2 10000 batterypseudo1_iq_1 0 batterypseudo1_iq_2 0 pseudo1_iq_offset 0 batterypseudo1_iq 0 0 0
+[   75.046262] MTK_BH: [battery_update] nvram ready!!
+[   75.046796] MTK_BH: read success [8]
+[   75.046889] MTK_BH: update_car_tune_value #Ready# kpoc:0 nvram:0 4 ret:0 cache:0 0 car_tune:0 2048
+[   75.047032] MTK_BH: [FGADC_info] tmp:29 29 29 rdnafg:0 vc:0 disable_fg:0:0 fg_v:1487:8513:42662:-38:50257:1494:8506:8506 low_temp:0 0 0
+[   75.047141] MTK_BH: [FGADC_intr_end][FG_INTR_IAVG]soc:8506 fg_c_soc:8350 fg_v_soc:8506 ui_soc:8751 vc_diff:-156 vc_mode 0 VBAT 44250 T:[29 V 29 C 29 avg:29] D0_C 8299 D0_V 8513 CAR[c:259 v:-38] Q:[50257 50257 50257 50257] aging 10000 bat_cycle 26 Trk[0(0):0:0] UI[0:0] Chr[1:0:0] pseudo1 0  DC_ratio 100 dodinit[9][0],ag[0 0 0 0 0 0]I:4321
+[   75.050053] [fr] FG_DAEMON_CMD_SET_BATTERY_CAPACITY = 50257 10000 10000 10000 50257 8751 8506 0 0 0 RM:42748
+[   75.050154] [fr] FG_DAEMON_CMD_SET_BATTERY_CAPACITY = 50257 10000 10000 10000 50257 8751 8506 0 0 0 RM:42748
+[   75.050181] ///PD dbg info 127 2
+[   75.050197] <   75.049>TCPC-TCPC:bat_update_work_func battery update soc = 88
+[   75.050205] <   75.049>TCPC-TCPC:bat_update_work_func Battery Charging
+[   75.053189] rtc_field_read: cmd[1], get rg[0x56, 0xff , 0] = 0xd8
+[   75.054246] rtc_spare_field_write: cmd[1], set rg[0x56, 0xff , 0] = 0xd8
+[   75.063574] MTK_BH: [fg_error_calibration2]sd_g1_vbat_en:0 1 8751 44210
+[   75.063675] MTK_BH: [fg_error_calibration2] intr_no 0x20000 shutdown_cond 0 soc 8506 ui_soc 8751 vbat 44210 now_time 0 gauge1_time 0 is_charger_exist 1 soc_100 0 keep_100 0 keep_100_minsoc 9000,full_tracking[en:0 count:0,car:259 lt_thr:0 multiply 6]
+[   75.063806] MTK_BH: [fg_enable_fg_bat_int2_lt] lt_en:1 lt_gap:50
+[   75.063944] MTK_BH: [fg_enable_fg_bat_int2_ht] ht_en:1 ht_gap:302
+[   75.064019] MTK_BH: [fg_set_int2] C_Remain_Int 7005 D_Remain_Int 42743 full_tracking_enable 0 pre_low_tracking_enable 0 low_tracking_enable 0
+[   75.064090] MTK_BH: [fg_set_int2] fg_bat_int2_lt_en 1 fg_bat_int2_ht_en 1
+[   75.075199] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   75.075838] healthd: battery l=88 v=4411 t=29.0 h=2 st=2 c=656100 fc=5025700 cc=26 chg=u
+[   75.083842] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   75.113719] sd 0:0:0:2: [sdc] Synchronizing SCSI cache
+[   75.115795] scsi 0:0:0:49488: Power-on or device reset occurred
+[   75.511449] timesync host boottime 75485923388
+[   75.517266] [wdk-c] cpu=7 o_k=7 lbit=0x80 cbit=0xff,7f,7,1,516707308,ff,0,0,0,0,[75517241026,15000000] 18
+[   75.517500] [wdk-c] cpu=0 o_k=0 lbit=0x81 cbit=0xff,7e,7,1,516707308,ff,0,0,0,0,[75517452718,14999790] 18
+[   75.517644] [wdk-c] cpu=1 o_k=1 lbit=0x83 cbit=0xff,7c,7,1,516707308,ff,0,0,0,0,[75517485949,14999755] 18
+[   75.517652] [wdk-c] cpu=6 o_k=6 lbit=0xe7 cbit=0xff,18,7,1,516707308,ff,0,0,0,0,[75517617949,14999623] 18
+[   75.517663] [wdk-c] cpu=2 o_k=2 lbit=0x87 cbit=0xff,78,7,1,516707308,ff,0,0,0,0,[75517577026,14999664] 18
+[   75.517694] [thread:165] 2026-04-10 06:33:04.971857 UTC;android time 2026-04-10 06:33:04.971857
+[   75.517706] [wdk-c] cpu=4 o_k=4 lbit=0xf7 cbit=0xff,8,7,1,516707308,ff,0,0,0,0,[75517630872,14999610] 18
+[   75.517748] [wdk-c] cpu=5 o_k=5 lbit=0xa7 cbit=0xff,58,7,1,516707308,ff,0,0,0,0,[75517597949,14999643] 18
+[   75.517757] [wdk-k] cpu=3 o_k=3 lbit=0xff cbit=0xff,0,7,1,516707308,ff,0,0,0,0,[75517651256,14999590] 18
+[   78.023252] [wdtk] kick watchdog
+[   78.351132] [name:spm&][SPM] system_bus wake up by  R12_SYSTIMER, timer_out = 119, r13 = 0x80007ec0, debug_flag = 0x10000000 0x3, r12 = 0x40000, r12_ext = 0x0, raw_sta = 0x0 0x0 0x0, idle_sta = 0x0, req_sta =  0x0 0x1f000000 0x234 0x2a2a0c18 0x7000 0x1f000 0x0, cg_check_sta =0x234, isr = 0x0, rt_req_sta0 = 0x0 rt_req_sta1 = 0x0 rt_req_sta2 = 0xffffffff rt_req_sta3 = 0xffffffff dram_sw_con_3 = 0x0, raw_ext_sta = 0x208a55, wake_misc = 0x180030, pcm_flag = 0x90067 0x400000 0x10067 0x10067, req = 0x6360636,  clk_settle = 0x60fe, 
+[   78.351368] [name:spm&] Pending Wakeup Sources: USB suspend lock disp_crtc0_wakelock cmdq_0_pm_lock 
+[   79.762528] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   79.763119] mmi_charger_get_batt_status,bat_status=1
+[   79.768055] [force_get_tbat_internal] 473,473,1,717,0,29 r:0 0 1
+[   79.768075] mmi_get_tbat: bat_temp = 29, pre_bat_temp = 29, avg_bat_temp=29
+[   79.791628] get_charger_type online:2 type:4 usb_type:1
+[   79.791647] get_usb_type online:2 usb_type:1
+[   79.800857] Vbat=4426 vbats=4435 vbus:4712 ibus:910 I=776 T=29 uisoc:88 type:usb>usb pd:5 swchg_ibat:742 cv:4500000
+[   79.800898] get_charger_type online:2 type:4 usb_type:1
+[   79.800911] get_usb_type online:2 usb_type:1
+[   79.800930] mtk_charger_start_timer: alarm timer start:0, 89 775426158
+[   79.801715] [PE50]pe50_is_algo_ready soc(88) not in range(0~80)
+[   79.801768] _wlc_is_algo_ready state:WLC_HW_READY
+[   79.801779] wlc_hal_get_charger_type type:4
+[   79.817046] [mmi_charger_check_status]batt=4426 mV, 765 mA, 29 C, USB= 4712 mV
+[   79.817104] get_charger_type online:2 type:4 usb_type:1
+[   79.817117] [mmi_charger_check_dcp_ffc_status] ffc_state:7, charge stage:0, uisoc:88, chg_type:4
+[   79.817158] [mmi_charger_check_dcp_ffc_status] no ffc session, restore input cur:2000000
+[   79.817178] [mmi_charger_check_status]FV 4500 mV, FCC 4200 mA
+[   79.817187] [mmi_charger_check_status]Step State = MAX
+[   79.817200] [mmi_charger_check_status]EFFECTIVE: FV = 4500000, CDIS = 0, FCC = 4200000, USBICL = 1500000, DEMO_DISCHARG = 0
+[   79.817211] [mmi_charger_check_status]adaptive charging:disable_ibat = 0, disable_ichg = 0, enable HZ = 0, charging disable = 0
+[   79.817223] get_charger_type online:2 type:4 usb_type:1
+[   79.863522] bq25980-charger 9-0065: bq25980_is_chg_enabled 0
+[   79.882144] tmp:29 (jeita:0 sm:0 cv:0 en:0) (sm:1) en:1 c:0 s:0 ov:0 sc:0 1 1 saf_cmd:-1 bat_mon:0 0
+[   79.882630] get_charger_type online:2 type:4 usb_type:1
+[   79.882648] get_usb_type online:2 usb_type:1
+[   79.882674] [charger_check_status] force disable power path false
+[   79.882682] yyatm_enabled:0 plugout_flag:0
+[   79.882695] chg_alg_set_current_limit
+[   79.882745] [PE50]pe50_is_algo_ready soc(88) not in range(0~80)
+[   79.882753] chg_alg_set_current_limit
+[   79.882769] chg_alg_set_current_limit
+[   79.882796] chg_alg_set_current_limit
+[   79.882816] _wlc_set_setting cv:4500000 icl:-1,-1 cc:4000000,-1, mmi_fcc:4200000, 6pin_en:0
+[   79.882833] _wlc_is_algo_ready state:WLC_HW_READY
+[   79.882844] wlc_hal_get_charger_type type:4
+[   79.882864] type-C:5 current:1500
+[   79.882895] m:3 chg1:-1,4000,1500,4000 chg2:-1,-1,0,0 dvchg1:-1 sc:4200000 -1 0 type:4:5 usb_unlimited:0 usbif:0 usbsm:0 aicl:-1 atm:0 bm:0 b:1
+[   79.882905] do_algorithm is_basic:1, active fast:0
+[   79.883698] [PE50]pe50_is_algo_ready soc(88) not in range(0~80)
+[   79.924881] mt6375-chg 11b20000.i2c:mt6375@34:chg: mt6375_dump_registers CC = 3150mA, AICR = 1500mA, MIVR = 4700mV, IEOC = 150mA, CV = 4500mV
+VBUS = 4712mV, IBUS = 910mA, VBAT = 4435mV, IBAT = 805mA, VSYS = 4451mV
+CHG_STAT = 0x04, CHG_STAT0 = 0xC1, CHG_STAT1 = 0x80, CHG_TOP1 = 0xB3, CHG_TOP2 = 0x43, CHG_EOC = 0x22
+[   79.927444] [sc]disable_charger: 0
+[   79.936515] [sc1]en:0 t:0,80000,23589,56411 t:3600,52811,-1,-1 c:723,2000 ibus:910 uisoc: 88,80 s:3000 ans:ignore
+[   79.943998] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   79.950229] _wlc_is_algo_running
+[   79.950254] mmi_charge_rate_check ICL:1500, aicl_lmt:-1, vbus: 4712, ibus: 910, Rp:1500, PD:5, Charger Detected: Normal
+[   79.950288] [mmi_get_battery_age]battery age is 10000
+[   79.950303] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   79.959437] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   79.974255] _wlc_is_algo_running
+[   79.974301] [mmi_check_power_watt] icl = 1500, aicl_lmt = -1, ibus = 910, power_type = 1, pd = 5
+[   79.974310] [mmi_check_power_watt] power_watt = 7W
+[   79.993213] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   79.994689] healthd: battery l=88 v=4422 t=29.0 h=2 st=2 c=765900 fc=5025700 cc=26 chg=u
+[   80.003238] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   81.026699] [DISP]mtk_drm_crtc_mode_check++ from 3 to 2
+[   81.026811] [DISP]mtk_crtc_disp_mode_switch_begin++ from 3 to 2
+[   81.026824] [lcd_info][mtk_panel_ext_param_set] switch fps to 60
+[   81.026826] mtk_panel_ext_param_set:disp: mode fps=60
+[   81.026845] [DISP]mtk_dsi_set_mmclk_by_datarate_V1, data_rate =832, mmclk=337 pixclk_min=144, dual=0
+[   81.026853] [lcd_info][mtk_panel_ext_param_set] switch fps to 60
+[   81.026855] mtk_panel_ext_param_set:disp: mode fps=60
+[   81.026870] [DISP]mtk_dsi_set_mmclk_by_datarate_V1, data_rate =832, mmclk=337 pixclk_min=144, dual=0
+[   81.026965] [DISP][fps]: drm_invoke_fps_chg_callbacks,new_fps =60
+[   81.027013] [DISP]mtk_crtc_disp_mode_switch_begin--
+[   81.478577] [DISP]mtk_drm_crtc_mode_check++ from 2 to 3
+[   81.478734] [DISP]mtk_crtc_disp_mode_switch_begin++ from 2 to 3
+[   81.478752] [lcd_info][mtk_panel_ext_param_set] switch fps to 30
+[   81.478758] mtk_panel_ext_param_set:disp: mode fps=30
+[   81.478779] [lcd_info][mtk_panel_ext_param_set] switch fps to 30
+[   81.478783] mtk_panel_ext_param_set:disp: mode fps=30
+[   81.478814] [DISP]mtk_dsi_set_mmclk_by_datarate_V1, data_rate =832, mmclk=338 pixclk_min=144, dual=0
+[   81.478947] [DISP][fps]: drm_invoke_fps_chg_callbacks,new_fps =30
+[   81.479019] [DISP]mtk_crtc_disp_mode_switch_begin--
+[   81.742057] cps_wls_notify_cur_state state:2 ccl:2000000uA
+[   81.742108] wlc_tcd_set_cur_state cur state = 2, config state = 2, cur limt = 2000000
+[   81.909926] [ccci1/dpmaif]net txq0-3(status=0xf)[2048]:2048-0-0(0x0), 2048-0-0(0x0), 2048-0-0(0x0), 2048-0-0(0x0)
+[   81.909951] [ccci1/dpmaif]Current txq pos: w/r/rel=(0,0,0)(0,0,0)(0,0,0)(0,0,0), tx_busy=0,0,0,0
+[   81.910105] [ccci1/cif]total cnt=5188;rxq0 isr_cnt=5;rxq1 isr_cnt=89;rxq2 isr_cnt=0;rxq3 isr_cnt=4;rxq4 isr_cnt=3013;rxq5 isr_cnt=2079;rxq6 isr_cnt=2;rxq7 isr_cnt=0;rxq8 isr_cnt=0;rxq9 isr_cnt=0;rxq10 isr_cnt=0;rxq11 isr_cnt=0;rxq12 isr_cnt=0;rxq13 isr_cnt=0;rxq14 isr_cnt=0;rxq15 isr_cnt=1;rxq16 isr_cnt=0;rxq17 isr_cnt=0;rxq18 isr_cnt=0;rxq19 isr_cnt=0;rxq20 isr_cnt=0;rxq21 isr_cnt=0;rxq22 isr_cnt=0;rxq23 isr_cnt=0;
+[   82.951731] [wlan][1503]SCANLOG:(SCN INFO) [SCN:100:K2D] Scan flags=0x8 [mac]addr=02:00:00:00:00:00 mask=03:00:00:00:00:00 n_ssids=1: n_channels=26: 1 2 3 4 5 6 7 8 9 10 11 12 13 36 40 44 48 52 56 60 64 149 153 157 161 165
+[   82.951780] [wlan][1503]mtk_cfg80211_scan:(REQ INFO) n_ssid=(1->0) n_channel(26==>26) wildcard=0x1 flag=0x8 random_mac=22:d3:59:5e:5d:bb
+[   82.952677] [wlan][2195]aisFsmSteps:(AIS STATE) [AIS0] TRANSITION: [IDLE] -> [SCAN]
+[   82.952709] [wlan][2195]secPrivacySeekForBcEntry:(RSN INFO) [Wlan index] BSS#0 keyid#255 P=0 use WlanIndex#5 STAIdx=254 da:32:19:34:03:af (OpMode:0, NetworkType:0, CheckKeyId:0)
+[   82.952722] [wlan][2195]nicActivateNetworkEx:(RSN INFO) [BSS index]=0 OwnMac1=da:32:19:34:03:af BSSID=00:00:00:00:00:00 BMCIndex = 5 NetType=0
+[   82.952739] [wlan][2195]asicFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x11] SEQ[108] SET[1] LEN[44]
+[   82.952762] [wlan][2195]scanSetRequestChannel:(SCN INFO) channel num(26=>26) 00000000 00000000 00000022 22200000 00000000 00000001 11111110 00003FFE
+[   82.952775] [wlan][2195]cnmTimerStartTimer:(CNM WARN) Invalid NextExpiredSysTime: 4294725204, currentSysTime: 4294750224
+[   82.953757] [wlan][2195]scnFsmSteps:(SCN STATE) [SCAN]TRANSITION: [IDLE] -> [SCANNING]
+[   82.953831] [wlan][2195]SCANLOG:(SCN INFO) [SCN:200:D2F] ScanReqV2: ScanType=1,BSS=0,SSIDType=1,Num=0,Ext=0,ChannelType=4,Num=26,Ext=0,Seq=4,Ver=1,Dw=0,Min=0,Func=0x13,D=0,Mac=22:d3:59:5e:5d:bb,BSSID=00:00:00:00:00:00,,Ch: 1 2 3 4 5 6 7 8 9 10 11 12 13 36 40 44 48 52 56 60 64 149 153 157 161 165
+[   82.953855] [wlan][2195]asicFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x03] SEQ[109] SET[1] LEN[1220]
+[   82.954033] [wlan][2195]kalPerMonUpdate:(SW4 INFO) <39015ms> Tput: 0(0.000mbps) [0:0:0:0][0:0:0:0][0:0:0:0][0:0:0:0] Pending:0/256 [0:0:0:0][0:0:0:0][0:0:0:0][0:0:0:0] Used:0/1536/512 [0][0][0][0][0] LQ[0:0:0] lv:0 th:5 fg:0x5 Mo:[0:0:0:0] TxDp[ST:BS:FO:QM:DP]:0:0:0:0:0
+[   82.954061] [wlan][2195]kalPerMonUpdate:(SW4 INFO) ndevdrp:[0:0:0:0][0:0:0:0][0:0:0:0] drv[RM,IL,RI,RT,RM,RW,RA,RB,DT,NS,IB,HS,LS,DD,ME,BD,NI,DR,TE,CE,DN,FE,DE,IE,TME]:254,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+[   82.957426] [wlan][2196]halSetDriverOwn:(INIT INFO) DRIVER OWN Done[3277 us]
+[   82.957643] [wlan][2196]kalDumpHifStats:(HAL INFO) I[311 0] T[109 109 107 / 0 0 0 0] R[0 / 261] T_R[0 0 0 2 0]  R_R[0 0] Tok[0/1536] Rfb[2102/2102] txreg[0] rxreg[257]
+[   83.481822] [name:spm&][SPM] system_bus wake up by  R12_SYSTIMER, timer_out = 288, r13 = 0x8000ffdc, debug_flag = 0x10000000 0x3, r12 = 0x40000, r12_ext = 0x0, raw_sta = 0x0 0x0 0x0, idle_sta = 0x0, req_sta =  0x0 0x1f000000 0x235 0xc2020c18 0x701f 0x1d000 0x0, cg_check_sta =0x235, isr = 0x0, rt_req_sta0 = 0x0 rt_req_sta1 = 0x0 rt_req_sta2 = 0xffffffff rt_req_sta3 = 0xffffffff dram_sw_con_3 = 0x0, raw_ext_sta = 0x208a55, wake_misc = 0x180030, pcm_flag = 0x90067 0x400000 0x10067 0x10067, req = 0x6360636,  clk_settle = 0x60fe, 
+[   83.482003] [name:spm&] Pending Wakeup Sources: USB suspend lock disp_crtc0_wakelock cmdq_0_pm_lock 
+[   83.953966] [wlan][2195]kalPerMonUpdate:(SW4 INFO) <1000ms> Tput: 0(0.000mbps) [0:0:0:0][0:0:0:0][0:0:0:0][0:0:0:0] Pending:0/256 [0:0:0:0][0:0:0:0][0:0:0:0][0:0:0:0] Used:0/1536/512 [0][0][0][0][0] LQ[0:0:0] lv:0 th:5 fg:0x5 Mo:[0:0:0:0] TxDp[ST:BS:FO:QM:DP]:0:0:0:0:0
+[   83.954007] [wlan][2195]kalPerMonUpdate:(SW4 INFO) ndevdrp:[0:0:0:0][0:0:0:0][0:0:0:0] drv[RM,IL,RI,RT,RM,RW,RA,RB,DT,NS,IB,HS,LS,DD,ME,BD,NI,DR,TE,CE,DN,FE,DE,IE,TME]:313,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+[   84.007579] [wlan][2196]kalDumpHifStats:(HAL INFO) I[366 0] T[109 109 109 / 0 0 0 0] R[0 / 321] T_R[0 0 0 0 0]  R_R[0 0] Tok[0/1536] Rfb[2101/2102] txreg[0] rxreg[314]
+[   84.763250] [wlan][2195]SCANLOG:(SCN INFO) [SCN:500:F2D] scnEventScanDone Version4!size of ScanDone476,ucCompleteChanCount[26],ucCurrentState7, u4ScanDurBcnCnt[80],Seq[4]
+[   84.763296] [wlan][2195]SCANLOG:(SCN INFO) [SCN:500:F2D] 31: f8c4f3da78ef30e98eabc87c7ca96b17d785f80da9ff34f7f8c4f3b0c0b08ece4e553549b48618a7a8e77af17ea8ff747af17ea8ff767af17ea8ff75c4a4022ed43c7ca96b751b3ef427568c9c90f627569c9c903a3bab96a8fec6e5acb962982ec1f41fc56a3a3baba5a688f427568c9c91f627569c9c91909f225abcd92ec1f41fc56bf8c4f3da78f3f80da9ff34f8b48618a7a8e81455b92ef09a2655b92ef09a2a55b92ef09a72f17ea8ff7372f17ea8ff74f8c4f3b0c0b4
+[   84.763302] [wlan][2195]scnFsmDumpScanDoneInfo:(SCN INFO) Country Code = IN, Detected_Channel_Num = 26
+[   84.763312] [wlan][2195]scnFsmDumpScanDoneInfo:(SCN INFO) Channel  :      1     2     3     4     5     6     7     8     9    10    11    12    13    36    40    44    48    52    56    60    64   149   153   157   161   165
+[   84.763322] [wlan][2195]scnFsmDumpScanDoneInfo:(SCN INFO) IdleTime :   5538  6281  3956  4636  4300  3819  3738  7610  5012  4191  5842  5603  4484  5119  5646  4811  4753  9754 10121 10095 10029  5711  4757  6588  5731  4726
+[   84.763330] [wlan][2195]scnFsmDumpScanDoneInfo:(SCN INFO) MdrdyCnt :     10     8     5     0     0    11    14     4     2    17     7     1     0    11     2    17     0     5     0     0     1     6     0    12     6     0
+[   84.763338] [wlan][2195]scnFsmDumpScanDoneInfo:(SCN INFO) BAndPCnt :      5     1     3     0     0     3     9     2     1    16     5     1     0    11     2    11     0     5     0     0     0     0     0     5     0     0
+[   84.763378] [wlan][2195]scnFsmSteps:(SCN STATE) [SCAN]TRANSITION: [SCANNING] -> [IDLE]
+[   84.763391] [wlan][2195]aisFsmRunEventScanDone:(AIS INFO) ScanDone 4, status(0) native req(4)
+[   84.763736] [wlan][2195]SCANLOG:(SCN INFO) [SCN:600:D2K] Total:18/31  Airtel home wifi; Airtel_Ujjwal; FTTH; Airtel_zafa_7700; QARIZMATIC; IOT5-M2-406880008; Airtel_Oreo; Edoras; Airtel_JPR; Shashwat; Airtel_rizw_1144; AirFiber-2025; Redmi 12 5G; Airtel_Afroz; bella; Airtel_moha_4410_5G; Airtel home wifi_5G; Airtel_azim_7862;
+[   84.764041] [wlan][2195]SCANLOG:(SCN INFO) [SCN:600:D2K] 31: f8c4f3da78ef30e98eabc87c7ca96b17d785f80da9ff34f7f8c4f3b0c0b08ece4e553549b48618a7a8e77af17ea8ff747af17ea8ff767af17ea8ff75c4a4022ed43c7ca96b751b3ef427568c9c90f627569c9c903a3bab96a8fec6e5acb962982ec1f41fc56a3a3baba5a688f427568c9c91f627569c9c91909f225abcd92ec1f41fc56bf8c4f3da78f3f80da9ff34f8b48618a7a8e81455b92ef09a2655b92ef09a2a55b92ef09a72f17ea8ff7372f17ea8ff74f8c4f3b0c0b4
+[   84.764051] [wlan][2195]SCANLOG:(SCN INFO) [SCN:600:D2K] Call cfg80211_scan_done (aborted=0)
+[   84.764098] [wlan][2195]aisFsmSteps:(AIS STATE) [AIS0] TRANSITION: [SCAN] -> [IDLE]
+[   84.764103] [wlan][2195]aisFsmSteps:(AIS INFO) No req anymore
+[   84.764113] [wlan][2195]nicDeactivateNetworkEx:(RSN INFO) [BSS index]=0 OwnMac=da:32:19:34:03:af BSSID=00:00:00:00:00:00 BMCIndex = 5 NetType=0
+[   84.764125] [wlan][2195]asicFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x11] SEQ[110] SET[1] LEN[44]
+[   84.764140] [wlan][2195]asicFillCmdTxdInfo:(INIT INFO) TX CMD: ID[0x14] SEQ[111] SET[1] LEN[36]
+[   84.771475] [wlan][2196]halSetFWOwn:(INIT INFO) FW OWN:1, IntSta:0x10080000
+[   84.778190] [wlan][2196]halSetDriverOwn:(INIT INFO) DRIVER OWN Done[5168 us]
+[   84.778315] [wlan][2195]qmHandleEventBssAbsencePresence:(QM INFO) NAF:B=0,A=0,F=0 used=0 [0][0][0][0][0]
+[   84.801362] [wlan][2196]halSetFWOwn:(INIT INFO) FW OWN:1, IntSta:0x10000002
+[   84.985281] [ma_to_mw] 4403(mV) * 5500(mA) = 24216(mW)
+[   84.985298] [DLPT_final] 5500,88,88,5500
+[   85.749642] timesync host boottime 85724128312
+[   88.573653] [name:spm&][SPM] system_bus wake up by  R12_SYSTIMER, timer_out = 127, r13 = 0x80007ec0, debug_flag = 0x10000000 0x3, r12 = 0x40000, r12_ext = 0x0, raw_sta = 0x0 0x0 0x0, idle_sta = 0x0, req_sta =  0x0 0x1f000000 0x3f4 0x3e3e0c18 0x7000 0x1d000 0x0, cg_check_sta =0x3f4, isr = 0x0, rt_req_sta0 = 0x0 rt_req_sta1 = 0x0 rt_req_sta2 = 0xffffffff rt_req_sta3 = 0xffffffff dram_sw_con_3 = 0x0, raw_ext_sta = 0x208a55, wake_misc = 0x180030, pcm_flag = 0x90067 0x400000 0x10067 0x10067, req = 0x6360636,  clk_settle = 0x60fe, 
+[   88.573880] [name:spm&] Pending Wakeup Sources: ccci_fs ttyC0 USB suspend lock disp_crtc0_wakelock cmdq_0_pm_lock 
+[   89.802591] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   89.803297] mmi_charger_get_batt_status,bat_status=1
+[   89.809171] [force_get_tbat_internal] 473,473,1,772,0,29 r:0 0 1
+[   89.809191] mmi_get_tbat: bat_temp = 29, pre_bat_temp = 29, avg_bat_temp=29
+[   89.836217] get_charger_type online:2 type:4 usb_type:1
+[   89.836250] get_usb_type online:2 usb_type:1
+[   89.845436] Vbat=4427 vbats=4436 vbus:4712 ibus:907 I=764 T=29 uisoc:88 type:usb>usb pd:5 swchg_ibat:712 cv:4500000
+[   89.845476] get_charger_type online:2 type:4 usb_type:1
+[   89.845489] get_usb_type online:2 usb_type:1
+[   89.845822] mtk_charger_start_timer: alarm timer start:0, 99 820313851
+[   89.846604] [PE50]pe50_is_algo_ready soc(88) not in range(0~80)
+[   89.846657] _wlc_is_algo_ready state:WLC_HW_READY
+[   89.846669] wlc_hal_get_charger_type type:4
+[   89.858350] [mmi_charger_check_status]batt=4427 mV, 755 mA, 29 C, USB= 4712 mV
+[   89.858407] get_charger_type online:2 type:4 usb_type:1
+[   89.858420] [mmi_charger_check_dcp_ffc_status] ffc_state:7, charge stage:0, uisoc:88, chg_type:4
+[   89.858462] [mmi_charger_check_dcp_ffc_status] no ffc session, restore input cur:2000000
+[   89.858483] [mmi_charger_check_status]FV 4500 mV, FCC 4200 mA
+[   89.858492] [mmi_charger_check_status]Step State = MAX
+[   89.858505] [mmi_charger_check_status]EFFECTIVE: FV = 4500000, CDIS = 0, FCC = 4200000, USBICL = 1500000, DEMO_DISCHARG = 0
+[   89.858517] [mmi_charger_check_status]adaptive charging:disable_ibat = 0, disable_ichg = 0, enable HZ = 0, charging disable = 0
+[   89.858529] get_charger_type online:2 type:4 usb_type:1
+[   89.889108] bq25980-charger 9-0065: bq25980_is_chg_enabled 0
+[   89.907327] tmp:29 (jeita:0 sm:0 cv:0 en:0) (sm:1) en:1 c:0 s:0 ov:0 sc:0 1 1 saf_cmd:-1 bat_mon:0 0
+[   89.907600] get_charger_type online:2 type:4 usb_type:1
+[   89.907617] get_usb_type online:2 usb_type:1
+[   89.907642] [charger_check_status] force disable power path false
+[   89.907650] yyatm_enabled:0 plugout_flag:0
+[   89.907665] chg_alg_set_current_limit
+[   89.907715] [PE50]pe50_is_algo_ready soc(88) not in range(0~80)
+[   89.907725] chg_alg_set_current_limit
+[   89.907741] chg_alg_set_current_limit
+[   89.907767] chg_alg_set_current_limit
+[   89.907788] _wlc_set_setting cv:4500000 icl:-1,-1 cc:4000000,-1, mmi_fcc:4200000, 6pin_en:0
+[   89.907804] _wlc_is_algo_ready state:WLC_HW_READY
+[   89.907816] wlc_hal_get_charger_type type:4
+[   89.907837] type-C:5 current:1500
+[   89.907867] m:3 chg1:-1,4000,1500,4000 chg2:-1,-1,0,0 dvchg1:-1 sc:4200000 -1 0 type:4:5 usb_unlimited:0 usbif:0 usbsm:0 aicl:-1 atm:0 bm:0 b:1
+[   89.907877] do_algorithm is_basic:1, active fast:0
+[   89.908604] [PE50]pe50_is_algo_ready soc(88) not in range(0~80)
+[   89.956748] mt6375-chg 11b20000.i2c:mt6375@34:chg: mt6375_dump_registers CC = 3150mA, AICR = 1500mA, MIVR = 4700mV, IEOC = 150mA, CV = 4500mV
+VBUS = 4712mV, IBUS = 907mA, VBAT = 4420mV, IBAT = 487mA, VSYS = 4430mV
+CHG_STAT = 0x04, CHG_STAT0 = 0xC1, CHG_STAT1 = 0x80, CHG_TOP1 = 0xB3, CHG_TOP2 = 0x43, CHG_EOC = 0x22
+[   89.959205] [sc]disable_charger: 0
+[   89.967053] [sc1]en:0 t:0,80000,23599,56401 t:3600,52801,-1,-1 c:544,2000 ibus:910 uisoc: 88,80 s:3000 ans:ignore
+[   89.974143] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   89.983421] _wlc_is_algo_running
+[   89.983457] mmi_charge_rate_check ICL:1500, aicl_lmt:-1, vbus: 4712, ibus: 907, Rp:1500, PD:5, Charger Detected: Normal
+[   89.983494] [mmi_get_battery_age]battery age is 10000
+[   89.983513] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   89.990424] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   90.005647] _wlc_is_algo_running
+[   90.005685] [mmi_check_power_watt] icl = 1500, aicl_lmt = -1, ibus = 907, power_type = 1, pd = 5
+[   90.005694] [mmi_check_power_watt] power_watt = 7W
+[   90.030618] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   90.031706] healthd: battery l=88 v=4422 t=29.0 h=2 st=2 c=740900 fc=5025700 cc=26 chg=u
+[   90.045037] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   90.285014] mt6375-auxadc 11b20000.i2c:mt6375@34:auxadc: auxadc_vbat_is_valid: chg_vbat = 4436(0)
+[   90.289018] mt6375-auxadc 11b20000.i2c:mt6375@34:auxadc: auxadc_vbat_is_valid: auxadc_vbat = 4427(0)
+[   90.294198] [nafg_irq_handler][cnt:8 dltv:145616 cdltv:-9703 cdltvt:9699 zcv:42655 vbat:4428]
+[   90.295135] MTK_FG: waiting FG_DAEMON_CMD_NOTIFY_DAEMON from kernel...[0x0][220607]
+[   90.295254] MTK_FG: wake up function 0x1000 cmd:0 0,last:0x20000
+[   90.295329] MTK_BH: get_daemon_log_level 8
+[   90.295459] MTK_BH: [fg_bat_nafg][fg_nafg_int_handler]
+[   90.295538] MTK_BH: [fg_bat_nafg][fg_update_v_dod]
+[   90.299794] MTK_BH: [fg_bat_nafg][get_fg_sw_car] _car_v [253] dltv_value 145616 c_dltv_value -9703 UNIT_OHM 10000 vbat=44236
+[   90.299878] MTK_BH: [fg_bat_nafg][get_fg_sw_car] nafg_resistance_bat 994 DC_ratio 100 com_fg_meter_resistance 70 r_fg_value 0 nafg_time_setting 10
+[   90.300102] MTK_BH: [fg_update_v_dod][fg_update_quse] aging_sel 0 qmax_t_0ma 50257 quse [50257] quse_wo_lf 50257
+[   90.300180] MTK_BH: [fg_update_v_dod][fg_update_quse] aging_factor 10000 aging_factor_cust 100 loading_factor1 10000 loading_factor2 10000
+[   90.300254] MTK_BH: [FGADC] OCV_to_DOD: voltage:42662 dod:1487 highidx:15
+[   90.300328] MTK_BH: [FGADC] DOD_to_OCV: dod:1445 vol:42715 highidx:15
+[   90.300407] MTK_BH: [fg_bat_nafg][fg_update_v_dod] car_v 215:308:259:0 quse 50257 nafg_resistance_bat[994 994 996 994] prev_fg_v_ocv = 42655 DC_ratio 100
+[   90.300490] MTK_BH: [fg_bat_nafg][fg_update_v_dod] fg_v_dod[1494=>1445] quse 50257 v_dod 1445 v_soc 8555 v_ocv 42715 v_d0_dod 1487 T[29 29]ratio[en 0 100 thr:1 dif:0]
+[   90.300570] MTK_BH: [fg_bat_nafg][fg_update_v_dod] dcr_start 0 dcr_count 0 dc_r_cnt 1000 dcr_fg_car1 0 dcr_fg_car2 0 dcr_car_v 0 dcr_cnt 0 dcr_ratio_5 0 DC_ratio 100 car:308
+[   90.300643] MTK_BH: [FGADC] DOD_to_OCV: dod:1445 vol:42715 highidx:15
+[   90.300719] MTK_BH: [fg_bat_nafg][fg_update_nag_c_dltv_thr] c_dltv_thr_mAsec 9046 quse 50257 diff_soc_setting 50 UNIT_SOC 10000
+[   90.300793] MTK_BH: [fg_bat_nafg][fg_update_nag_c_dltv_thr] c_dltv_thr 9618 c_dltv_thr_mAsec 9046 nafg_resistance_bat 994 DC_ratio 100
+[   90.300868] MTK_BH: [fg_bat_nafg][fg_update_nag_c_dltv_thr] com_fg_meter_resistance 70 com_r_fg_value 0 UNIT_OHM 10000 nafg_time_setting 10
+[   90.302319] MTK_BH: [fg_set_soc_by_vc_mode] vc_mode 0 0 soc 8555 fg_c_soc 8350 fg_v_soc 8555 th1 300 th2 500 th3 300 vc_soc1 7000 vc_soc2 3000
+[   90.312792] MTK_BH: [fg_bat_int1_handler]g_bat_cycle_ncar=0, zcv_intr_step:0
+[   90.312868] MTK_BH: [fg_update_c_dod]
+[   90.315103] MTK_BH: [fg_update_c_dod][fg_update_quse] aging_sel 0 qmax_t_0ma_tb1 50257 quse_tb1 [50257] quse_wo_lf_tb1 50257
+[   90.315184] MTK_BH: [fg_update_c_dod][fg_update_quse] aging_factor 10000 aging_factor_cust 100 loading_factor1 10000 loading_factor2 10000
+[   90.315261] MTK_BH: [FGADC] OCV_to_DOD: voltage:42399 dod:1701 highidx:17
+[   90.315335] MTK_BH: [fg_update_c_dod] fg_c_dod 1640 fg_c_d0_dod 1701 car 308 quse_tb1 50257 fg_c_soc 8360
+[   90.315415] MTK_BH: [fg_set_soc_by_vc_mode] vc_mode 0 0 soc 8555 fg_c_soc 8360 fg_v_soc 8555 th1 300 th2 500 th3 300 vc_soc1 7000 vc_soc2 3000
+[   90.315489] MTK_BH: [fg_update_fg_bat_int1_threshold] quse:50257 gap:251 diff_soc_setting:50
+[   90.330946] MTK_BH: [fg_bat_int2_handler]car:308 pre_car:259 ht:302 lt:50 u_type:0 type:2
+[   90.333012] MTK_BH: [fg_update_fg_bat_int2_threshold][fg_update_quse] aging_sel 0 qmax_t_0ma 50257 quse [50257] quse_wo_lf 50257
+[   90.333092] MTK_BH: [fg_update_fg_bat_int2_threshold][fg_update_quse] aging_factor 10000 aging_factor_cust 100 loading_factor1 10000 loading_factor2 10000
+[   90.333240] MTK_BH: [fg_update_fg_bat_int2_threshold]: decimal:0,cust_MIN_GAP:50,diff_soc_setting:50,ht_gap:292,lt_gap:50
+[   90.333333] MTK_BH: [fg_update_fg_bat_int2_threshold]car:308 Quse:50257 soc:8555:8751 pseudo1:0 pseudo100:9900 D:42994 42994 42994 C:7262 6759 6759 ht_lt_gap:292 50 int1:50 1 10 251 54 6,rate:0,min:15 50,soc_dif:50
+[   90.339277] MTK_BH: [fg_update_fg_bat_int2_lt] update lt_en:1 lt_gap:50 ft:0 0,multiply [6]
+[   90.356795] MTK_BH: [battery_update] nvram ready!!
+[   90.357353] MTK_BH: read success [8]
+[   90.357446] MTK_BH: update_car_tune_value #Ready# kpoc:0 nvram:0 5 ret:0 cache:0 0 car_tune:0 2048
+[   90.357731] MTK_BH: [FGADC_info] tmp:29 29 29 rdnafg:0 vc:0 disable_fg:0:0 fg_v:1487:8513:42662:215:50257:1445:8555:8555 low_temp:0 0 0
+[   90.357844] MTK_BH: [FGADC_intr_end][FG_INTR_NAFG_VOLTAGE]soc:8555 fg_c_soc:8360 fg_v_soc:8555 ui_soc:8751 vc_diff:-195 vc_mode 0 VBAT 44280 T:[29 V 29 C 29 avg:29] D0_C 8299 D0_V 8513 CAR[c:308 v:215] Q:[50257 50257 50257 50257] aging 10000 bat_cycle 26 Trk[0(0):0:0] UI[0:0] Chr[1:0:0] pseudo1 0  DC_ratio 100 dodinit[9][0],ag[0 0 0 0 0 0]I:6353
+[   90.360771] ///PD dbg info 127 2
+[   90.360784] <   90.360>TCPC-TCPC:bat_update_work_func battery update soc = 88
+[   90.360793] <   90.360>TCPC-TCPC:bat_update_work_func Battery Charging
+[   90.362415] [fr] FG_DAEMON_CMD_SET_BATTERY_CAPACITY = 50257 10000 10000 10000 50257 8751 8555 0 0 0 RM:42994
+[   90.363592] [fr] FG_DAEMON_CMD_SET_BATTERY_CAPACITY = 50257 10000 10000 10000 50257 8751 8555 0 0 0 RM:42994
+[   90.368865] rtc_field_read: cmd[1], get rg[0x56, 0xff , 0] = 0xd8
+[   90.369934] rtc_spare_field_write: cmd[1], set rg[0x56, 0xff , 0] = 0xd8
+[   90.381740] MTK_BH: [fg_error_calibration2]sd_g1_vbat_en:0 1 8751 44150
+[   90.381857] MTK_BH: [fg_error_calibration2] intr_no 0x1000 shutdown_cond 0 soc 8555 ui_soc 8751 vbat 44150 now_time 0 gauge1_time 0 is_charger_exist 1 soc_100 0 keep_100 0 keep_100_minsoc 9000,full_tracking[en:0 count:0,car:308 lt_thr:0 multiply 6]
+[   90.381993] MTK_BH: [fg_enable_fg_bat_int2_lt] lt_en:1 lt_gap:50
+[   90.384653] MTK_BH: [fg_enable_fg_bat_int2_ht] ht_en:1 ht_gap:292
+[   90.384744] MTK_BH: [fg_set_int2] C_Remain_Int 6759 D_Remain_Int 42994 full_tracking_enable 0 pre_low_tracking_enable 0 low_tracking_enable 0
+[   90.384812] MTK_BH: [fg_set_int2] fg_bat_int2_lt_en 1 fg_bat_int2_ht_en 1
+[   90.387109] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   90.387858] healthd: battery l=88 v=4415 t=29.0 h=2 st=2 c=584700 fc=5025700 cc=26 chg=u
+[   90.397032] [cps_wls_chrg_get_property] psp = 4 val = 0.
+[   90.517579] [wdk-c] cpu=7 o_k=7 lbit=0x80 cbit=0xff,7f,7,1,516707308,ff,0,0,0,0,[90517547523,15000000] 18
+[   90.517709] [wdk-c] cpu=6 o_k=6 lbit=0xc0 cbit=0xff,3f,7,1,516707308,ff,0,0,0,0,[90517693446,14999854] 18
+[   90.517741] [wdk-c] cpu=1 o_k=1 lbit=0xc2 cbit=0xff,3d,7,1,516707308,ff,0,0,0,0,[90517713446,14999834] 18
+[   90.517762] [wdk-c] cpu=2 o_k=2 lbit=0xc6 cbit=0xff,39,7,1,516707308,ff,0,0,0,0,[90517734600,14999813] 18
+[   90.517783] [wdk-c] cpu=4 o_k=4 lbit=0xd6 cbit=0xff,29,7,1,516707308,ff,0,0,0,0,[90517755215,14999793] 18
+[   90.517803] [wdk-c] cpu=3 o_k=3 lbit=0xde cbit=0xff,21,7,1,516707308,ff,0,0,0,0,[90517776215,14999772] 18
+[   90.517825] [wdk-c] cpu=0 o_k=0 lbit=0xdf cbit=0xff,20,7,1,516707308,ff,0,0,0,0,[90517796831,14999751] 18
+[   90.517860] [thread:167] 2026-04-10 06:33:19.972023 UTC;android time 2026-04-10 06:33:19.972023
+[   90.517875] [wdk-k] cpu=5 o_k=5 lbit=0xff cbit=0xff,0,7,1,516707308,ff,0,0,0,0,[90517817677,14999730] 18
+[   90.954323] sd 0:0:0:2: [sdc] Synchronizing SCSI cache
+[   92.149903] [ccci1/dpmaif]net txq0-3(status=0xf)[2048]:2048-0-0(0x0), 2048-0-0(0x0), 2048-0-0(0x0), 2048-0-0(0x0)
+[   92.149930] [ccci1/dpmaif]Current txq pos: w/r/rel=(0,0,0)(0,0,0)(0,0,0)(0,0,0), tx_busy=0,0,0,0
+[   92.150009] [ccci1/cif]total cnt=5264;rxq0 isr_cnt=5;rxq1 isr_cnt=89;rxq2 isr_cnt=0;rxq3 isr_cnt=4;rxq4 isr_cnt=3038;rxq5 isr_cnt=2130;rxq6 isr_cnt=2;rxq7 isr_cnt=0;rxq8 isr_cnt=0;rxq9 isr_cnt=0;rxq10 isr_cnt=0;rxq11 isr_cnt=0;rxq12 isr_cnt=0;rxq13 isr_cnt=0;rxq14 isr_cnt=0;rxq15 isr_cnt=1;rxq16 isr_cnt=0;rxq17 isr_cnt=0;rxq18 isr_cnt=0;rxq19 isr_cnt=0;rxq20 isr_cnt=0;rxq21 isr_cnt=0;rxq22 isr_cnt=0;rxq23 isr_cnt=0;
+[   93.524858] [wdtk] kick watchdog
+[   93.685683] [name:spm&][SPM] system_bus wake up by  R12_SYSTIMER, timer_out = 193, r13 = 0x80007ec0, debug_flag = 0x10000000 0x3, r12 = 0x40000, r12_ext = 0x0, raw_sta = 0x0 0x0 0x0, idle_sta = 0x0, req_sta =  0x0 0x1f000000 0x3f4 0x3e3e0c18 0x7000 0x1d000 0x0, cg_check_sta =0x3f4, isr = 0x0, rt_req_sta0 = 0x0 rt_req_sta1 = 0x0 rt_req_sta2 = 0xffffffff rt_req_sta3 = 0xffffffff dram_sw_con_3 = 0x0, raw_ext_sta = 0x208a55, wake_misc = 0x180030, pcm_flag = 0x90067 0x400000 0x10067 0x10067, req = 0x6360636,  clk_settle = 0x60fe, 
+[   93.685837] [name:spm&] Pending Wakeup Sources: USB suspend lock disp_crtc0_wakelock cmdq_0_pm_lock 
+[   94.135493] sd 0:0:0:2: [sdc] Synchronizing SCSI cache
+[   95.991235] timesync host boottime 95965710543
